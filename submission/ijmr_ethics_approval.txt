@@ -1,0 +1,33 @@
+ETHICS APPROVAL STATEMENT
+Indian Journal of Medical Research Submission
+
+Manuscript Title: Precision Synthesis of Tuberculosis Detection Delays in India: A Unified Bayesian, PCA, and DAG Framework
+
+Author: Dr. H S Siddalingaiah
+
+Ethics Approval Status:
+
+This study involves secondary analysis of publicly available data sources and does not require ethics committee approval as per ICMJE guidelines for studies not involving human participants or identifiable private information.
+
+Data Sources Used:
+1. World Health Organization Global Tuberculosis Report 2024
+2. Central TB Division, Ministry of Health and Family Welfare, Government of India - India TB Report 2024
+3. National Family Health Survey (NFHS-5), 2019-2021
+4. Census of India 2011
+5. Published systematic literature reviews (secondary analysis)
+
+All data sources are publicly available and do not contain individual patient identifiers. No primary data collection involving human participants was conducted.
+
+This declaration complies with:
+- ICMJE Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly Work in Medical Journals
+- Committee on Publication Ethics (COPE) guidelines
+- Indian Council of Medical Research (ICMR) ethical guidelines for biomedical research
+
+Date: December 11, 2025
+Place: Tumkur, Karnataka, India
+
+Dr. H S Siddalingaiah
+Professor, Community Medicine
+Shridevi Institute of Medical Sciences and Research Hospital
+Tumkur, Karnataka, India
+Email: hssling@yahoo.com

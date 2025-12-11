@@ -1,0 +1,40 @@
+{
+  "generated_at": "2025-12-12T00:00:03Z",
+  "files": [
+    "ijmr_best_manuscript_v8_imrad.docx",
+    "ijmr_best_manuscript_v7_imrad_expanded.docx",
+    "ijmr_best_manuscript_v7_imrad.docx",
+    "ijmr_best_manuscript_v6.docx",
+    "ijmr_best_manuscript_v5.docx",
+    "ijmr_best_manuscript_v4.docx",
+    "ijmr_best_manuscript_v4_blinded.docx",
+    "ijmr_best_manuscript.docx",
+    "ijmr_best_manuscript_blinded.docx",
+    "ijmr_best_manuscript_metrics.json",
+    "ijmr_cover_letter.md",
+    "ijmr_conflict_of_interest.txt",
+    "ijmr_ethics_approval.txt",
+    "ijmr_copyright_transfer.txt",
+    "ijmr_title_page.docx",
+    "Figure_1.png",
+    "Figure_1.eps",
+    "Figure_2.png",
+    "Figure_2.eps",
+    "Figure_3.png",
+    "Figure_3.eps",
+    "Figure_4.png",
+    "Figure_4.eps",
+    "README.md",
+    "ijmr_submission_checklist.md",
+    "ijmr_submission_manifest_v4.json"
+  ],
+  "figures": {
+    "count": 4,
+    "formats": [
+      "png",
+      "eps"
+    ],
+    "notes": "Use EPS for IJMR portal uploads; PNGs retained for quick review."
+  },
+  "notes": "Aligned to v4.2 submission requirements; built from refs3 manuscript with validated references and updated declarations."
+}
