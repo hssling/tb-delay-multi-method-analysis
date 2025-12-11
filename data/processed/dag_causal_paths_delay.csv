@@ -1,0 +1,14 @@
+outcome,source,path,path_length,evidence_strengths,avg_evidence_score,n_edges
+in_ratio,literacy_pct,literacy_pct → bact_confirmed_pct → in_ratio,2,"moderate, moderate",2.0,2
+in_ratio,poverty_pct,poverty_pct → crowding_index → in_ratio,2,"moderate, weak",1.5,2
+in_ratio,literacy_pct,literacy_pct → crowding_index → in_ratio,2,"weak, weak",1.0,2
+pn_ratio,poverty_pct,poverty_pct → symptomatic_no_care_pct → pn_ratio,2,"strong, strong",3.0,2
+pn_ratio,literacy_pct,literacy_pct → bact_confirmed_pct → pn_ratio,2,"moderate, strong",2.5,2
+pn_ratio,bact_confirmed_pct,bact_confirmed_pct → in_ratio → pn_ratio,2,"moderate, strong",2.5,2
+pn_ratio,literacy_pct,literacy_pct → bact_confirmed_pct → in_ratio → pn_ratio,3,"moderate, moderate, strong",2.3333333333333335,3
+pn_ratio,poverty_pct,poverty_pct → crowding_index → pn_ratio,2,"moderate, moderate",2.0,2
+pn_ratio,literacy_pct,literacy_pct → private_first_provider_pct → pn_ratio,2,"moderate, moderate",2.0,2
+pn_ratio,crowding_index,crowding_index → in_ratio → pn_ratio,2,"weak, strong",2.0,2
+pn_ratio,poverty_pct,poverty_pct → crowding_index → in_ratio → pn_ratio,3,"moderate, weak, strong",2.0,3
+pn_ratio,literacy_pct,literacy_pct → crowding_index → in_ratio → pn_ratio,3,"weak, weak, strong",1.6666666666666667,3
+pn_ratio,literacy_pct,literacy_pct → crowding_index → pn_ratio,2,"weak, moderate",1.5,2

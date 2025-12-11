@@ -1,0 +1,13 @@
+source,target,strength
+poverty_pct,symptomatic_no_care_pct,strong
+poverty_pct,crowding_index,moderate
+literacy_pct,private_first_provider_pct,moderate
+literacy_pct,bact_confirmed_pct,moderate
+literacy_pct,crowding_index,weak
+symptomatic_no_care_pct,pn_ratio,strong
+private_first_provider_pct,pn_ratio,moderate
+bact_confirmed_pct,pn_ratio,strong
+bact_confirmed_pct,in_ratio,moderate
+crowding_index,pn_ratio,moderate
+crowding_index,in_ratio,weak
+in_ratio,pn_ratio,strong

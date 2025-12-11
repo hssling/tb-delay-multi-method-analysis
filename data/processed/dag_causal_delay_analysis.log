@@ -1,0 +1,11 @@
+2025-11-27 13:33:41 - INFO - Starting DAG causal analysis of TB delay determinants
+2025-11-27 13:33:41 - INFO - Built DAG with 8 nodes and 12 edges
+2025-11-27 13:33:41 - INFO - DAG analysis: 8 nodes, 12 edges
+2025-11-27 13:33:42 - INFO - Saved DAG visualization to D:\research-automation\TB detection delay\output\figures\dag_causal_delay_analysis.png
+2025-11-27 13:33:42 - INFO - Analyzed 13 causal pathways
+2025-11-27 13:33:42 - INFO - Calculated DAG metrics for 40 states
+2025-11-27 13:33:42 - INFO - Saved DAG edges to D:\research-automation\TB detection delay\data\processed\dag_edges_delay_analysis.csv
+2025-11-27 13:33:42 - INFO - Saved analysis summary to D:\research-automation\TB detection delay\data\processed\dag_analysis_summary_delay.csv
+2025-11-27 13:33:42 - INFO - Saved causal paths to D:\research-automation\TB detection delay\data\processed\dag_causal_paths_delay.csv
+2025-11-27 13:33:42 - INFO - Saved state metrics to D:\research-automation\TB detection delay\data\processed\dag_state_metrics_delay.csv
+2025-11-27 13:33:42 - INFO - DAG causal analysis of TB delay determinants completed

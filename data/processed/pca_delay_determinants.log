@@ -1,0 +1,15 @@
+2025-11-27 13:33:26 - INFO - Starting PCA analysis of TB delay determinants
+2025-11-27 13:33:26 - INFO - Prepared data for 31 states
+2025-11-27 13:33:26 - INFO - PCA completed. Cumulative variance explained: [0.44217878 0.68106148 0.79228812]
+2025-11-27 13:33:28 - INFO - Saved scree plot to D:\research-automation\TB detection delay\output\figures\pca_scree_plot_delay_determinants.png
+2025-11-27 13:33:29 - INFO - Saved loadings heatmap to D:\research-automation\TB detection delay\output\figures\pca_loadings_heatmap_delay_determinants.png
+2025-11-27 13:33:30 - INFO - Saved biplot to D:\research-automation\TB detection delay\output\figures\pca_biplot_delay_determinants.png
+2025-11-27 13:33:30 - INFO - Component interpretations:
+2025-11-27 13:33:30 - INFO -   PC1: PC1 (44.2%): Strongest loadings from literacy_pct, symptomatic_no_care_pct, poverty_pct
+2025-11-27 13:33:30 - INFO -   PC2: PC2 (23.9%): Strongest loadings from pn_ratio, private_first_provider_pct, in_ratio
+2025-11-27 13:33:30 - INFO -   PC3: PC3 (11.1%): Strongest loadings from bact_confirmed_pct, crowding_index, poverty_pct
+2025-11-27 13:33:30 - INFO - Saved component scores to D:\research-automation\TB detection delay\data\processed\pca_component_scores_delay_determinants.csv
+2025-11-27 13:33:30 - INFO - Saved loadings to D:\research-automation\TB detection delay\data\processed\pca_loadings_delay_determinants.csv
+2025-11-27 13:33:30 - INFO - Saved explained variance to D:\research-automation\TB detection delay\data\processed\pca_explained_variance_delay_determinants.csv
+2025-11-27 13:33:30 - INFO - Saved interpretation to D:\research-automation\TB detection delay\data\processed\pca_interpretation_delay_determinants.csv
+2025-11-27 13:33:30 - INFO - PCA analysis of TB delay determinants completed

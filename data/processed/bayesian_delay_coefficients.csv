@@ -1,0 +1,10 @@
+parameter,mean,sd,hdi_5%,hdi_95%
+intercept,0.001,0,0.001,0.001
+symptomatic_no_care_pct,0,0,0,0
+private_first_provider_pct,0,0,0,0
+bact_confirmed_pct,0,0,0,0
+crowding_index,0,0,0,0
+literacy_pct,0,0,0,0.001
+poverty_pct,0,0,0,0
+in_ratio,0,0,0,0
+sigma,0.001,0,0,0.001

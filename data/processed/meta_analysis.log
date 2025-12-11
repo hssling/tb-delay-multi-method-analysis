@@ -1,0 +1,50 @@
+2025-11-23 21:25:44 - ERROR - Literature extraction file missing or empty; cannot run meta-analysis.
+2025-11-23 21:27:37 - ERROR - Literature extraction file missing or empty; cannot run meta-analysis.
+2025-11-23 21:31:01 - ERROR - Literature extraction file missing or empty; cannot run meta-analysis.
+2025-11-23 21:31:56 - ERROR - Literature extraction file missing or empty; cannot run meta-analysis.
+2025-11-23 21:33:00 - ERROR - Literature extraction file missing or empty; cannot run meta-analysis.
+2025-11-23 21:47:24 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_patient_delay_(days).png
+2025-11-23 21:47:24 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_diagnostic_delay_(days).png
+2025-11-23 21:47:24 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_treatment_delay_(days).png
+2025-11-23 21:47:25 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_total_delay_(days).png
+2025-11-23 21:47:25 - INFO - Meta-analysis results saved to D:\research-automation\TB detection delay\data\processed\meta_delay_results.csv
+2025-11-23 21:55:22 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_patient_delay_(days).png
+2025-11-23 21:55:22 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_diagnostic_delay_(days).png
+2025-11-23 21:55:22 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_treatment_delay_(days).png
+2025-11-23 21:55:22 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_total_delay_(days).png
+2025-11-23 21:55:22 - INFO - Meta-analysis results saved to D:\research-automation\TB detection delay\data\processed\meta_delay_results.csv
+2025-11-23 22:23:59 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_patient_delay_(days).png
+2025-11-23 22:23:59 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_diagnostic_delay_(days).png
+2025-11-23 22:23:59 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_treatment_delay_(days).png
+2025-11-23 22:24:00 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_total_delay_(days).png
+2025-11-23 22:24:00 - INFO - Meta-analysis results saved to D:\research-automation\TB detection delay\data\processed\meta_delay_results.csv
+2025-11-23 22:28:18 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_patient_delay_(days).png
+2025-11-23 22:28:18 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_diagnostic_delay_(days).png
+2025-11-23 22:28:18 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_treatment_delay_(days).png
+2025-11-23 22:28:18 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_total_delay_(days).png
+2025-11-23 22:28:18 - INFO - Meta-analysis results saved to D:\research-automation\TB detection delay\data\processed\meta_delay_results.csv
+2025-11-23 23:12:39 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_patient_delay_(days).png
+2025-11-23 23:12:39 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_diagnostic_delay_(days).png
+2025-11-23 23:12:40 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_treatment_delay_(days).png
+2025-11-23 23:12:40 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_total_delay_(days).png
+2025-11-23 23:12:40 - INFO - Meta-analysis results saved to D:\research-automation\TB detection delay\data\processed\meta_delay_results.csv
+2025-11-23 23:22:43 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_patient_delay_(days).png
+2025-11-23 23:22:43 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_diagnostic_delay_(days).png
+2025-11-23 23:22:43 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_treatment_delay_(days).png
+2025-11-23 23:22:43 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_total_delay_(days).png
+2025-11-23 23:22:43 - INFO - Meta-analysis results saved to D:\research-automation\TB detection delay\data\processed\meta_delay_results.csv
+2025-11-23 23:40:00 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_patient_delay_(days).png
+2025-11-23 23:40:00 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_diagnostic_delay_(days).png
+2025-11-23 23:40:00 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_treatment_delay_(days).png
+2025-11-23 23:40:00 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_total_delay_(days).png
+2025-11-23 23:40:00 - INFO - Meta-analysis results saved to D:\research-automation\TB detection delay\data\processed\meta_delay_results.csv
+2025-11-27 00:18:12 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_patient_delay_(days).png
+2025-11-27 00:18:12 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_diagnostic_delay_(days).png
+2025-11-27 00:18:12 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_treatment_delay_(days).png
+2025-11-27 00:18:12 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_total_delay_(days).png
+2025-11-27 00:18:12 - INFO - Meta-analysis results saved to D:\research-automation\TB detection delay\data\processed\meta_delay_results.csv
+2025-11-27 01:03:04 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_patient_delay_(days).png
+2025-11-27 01:03:04 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_diagnostic_delay_(days).png
+2025-11-27 01:03:05 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_treatment_delay_(days).png
+2025-11-27 01:03:05 - INFO - Saved forest plot to D:\research-automation\TB detection delay\output\figures\forest_total_delay_(days).png
+2025-11-27 01:03:05 - INFO - Meta-analysis results saved to D:\research-automation\TB detection delay\data\processed\meta_delay_results.csv

@@ -1,0 +1,39 @@
+2025-11-27 13:34:07 - INFO - Starting integrated multi-method analysis of TB detection delays
+2025-11-27 13:34:07 - WARNING - MCMC results not found
+2025-11-27 13:34:07 - INFO - Loaded PCA scores: 31 states
+2025-11-27 13:34:07 - INFO - Loaded PCA loadings: 8 components
+2025-11-27 13:34:07 - INFO - Loaded DAG metrics: 40 states
+2025-11-27 13:34:07 - INFO - Loaded proxy data: 40 records
+2025-11-27 13:34:07 - INFO - Created integrated summary with 9 entries
+2025-11-27 13:34:08 - INFO - Saved integrated comparison plot to D:\research-automation\TB detection delay\output\figures\integrated_multi_method_comparison.png
+2025-11-27 13:34:08 - INFO - Created state ranking for 40 states
+2025-11-27 13:34:08 - INFO - Generated integrated report: D:\research-automation\TB detection delay\reports\integrated_delay_analysis_report.md
+2025-11-27 13:34:08 - INFO - Saved integrated summary to D:\research-automation\TB detection delay\data\processed\integrated_analysis_summary.csv
+2025-11-27 13:34:08 - INFO - Saved state ranking to D:\research-automation\TB detection delay\data\processed\integrated_state_ranking.csv
+2025-11-27 13:34:08 - INFO - Integrated multi-method analysis completed
+2025-11-27 15:20:42 - INFO - Starting integrated multi-method analysis of TB detection delays
+2025-11-27 15:20:42 - WARNING - MCMC results not found
+2025-11-27 15:20:42 - INFO - Loaded PCA scores: 31 states
+2025-11-27 15:20:42 - INFO - Loaded PCA loadings: 8 components
+2025-11-27 15:20:42 - INFO - Loaded DAG metrics: 40 states
+2025-11-27 15:20:42 - INFO - Loaded proxy data: 40 records
+2025-11-27 15:20:42 - INFO - Created integrated summary with 9 entries
+2025-11-27 15:20:43 - INFO - Saved integrated comparison plot to D:\research-automation\TB detection delay\output\figures\integrated_multi_method_comparison.png
+2025-11-27 15:20:43 - INFO - Created state ranking for 40 states
+2025-11-27 15:20:43 - INFO - Generated integrated report: D:\research-automation\TB detection delay\reports\integrated_delay_analysis_report.md
+2025-11-27 15:20:43 - INFO - Saved integrated summary to D:\research-automation\TB detection delay\data\processed\integrated_analysis_summary.csv
+2025-11-27 15:20:43 - INFO - Saved state ranking to D:\research-automation\TB detection delay\data\processed\integrated_state_ranking.csv
+2025-11-27 15:20:43 - INFO - Integrated multi-method analysis completed
+2025-11-27 15:28:14 - INFO - Starting integrated multi-method analysis of TB detection delays
+2025-11-27 15:28:14 - INFO - Loaded MCMC results: 3 delay types
+2025-11-27 15:28:14 - INFO - Loaded PCA scores: 31 states
+2025-11-27 15:28:14 - INFO - Loaded PCA loadings: 8 components
+2025-11-27 15:28:14 - INFO - Loaded DAG metrics: 40 states
+2025-11-27 15:28:14 - INFO - Loaded proxy data: 40 records
+2025-11-27 15:28:14 - INFO - Created integrated summary with 12 entries
+2025-11-27 15:28:15 - INFO - Saved integrated comparison plot to D:\research-automation\TB detection delay\output\figures\integrated_multi_method_comparison.png
+2025-11-27 15:28:15 - INFO - Created state ranking for 40 states
+2025-11-27 15:28:15 - INFO - Generated integrated report: D:\research-automation\TB detection delay\reports\integrated_delay_analysis_report.md
+2025-11-27 15:28:15 - INFO - Saved integrated summary to D:\research-automation\TB detection delay\data\processed\integrated_analysis_summary.csv
+2025-11-27 15:28:15 - INFO - Saved state ranking to D:\research-automation\TB detection delay\data\processed\integrated_state_ranking.csv
+2025-11-27 15:28:15 - INFO - Integrated multi-method analysis completed

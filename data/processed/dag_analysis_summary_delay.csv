@@ -1,0 +1,2 @@
+nodes,edges,is_dag,density,average_clustering,max_in_degree,max_out_degree,pathways
+8,12,True,0.21428571428571427,0.17083333333333334,5,3,"{'in_ratio': {'direct_causes': ['bact_confirmed_pct', 'crowding_index'], 'indirect_causes': ['literacy_pct', 'poverty_pct'], 'total_pathways': 1}, 'pn_ratio': {'direct_causes': ['symptomatic_no_care_pct', 'private_first_provider_pct', 'bact_confirmed_pct', 'crowding_index', 'in_ratio'], 'indirect_causes': ['literacy_pct', 'poverty_pct'], 'total_pathways': 3}}"

@@ -1,0 +1,50 @@
+2025-11-27 00:10:00 - INFO - Starting ingestion of TB data sources - Version 2.
+2025-11-27 00:10:00 - INFO - Saved 25 rows to D:\research-automation\TB detection delay\data\processed\who_tb_global_clean_v2.csv
+2025-11-27 00:10:01 - INFO - Saved 36 rows to D:\research-automation\TB detection delay\data\processed\india_tb_reports_clean_v2.csv
+2025-11-27 00:10:01 - INFO - Saved 36 rows to D:\research-automation\TB detection delay\data\processed\india_tb_notifications_2025_clean_v2.csv
+2025-11-27 00:10:01 - ERROR - Failed to load D:\research-automation\TB detection delay\data\raw\tb_prevalence_survey.xlsx: Excel file format cannot be determined, you must specify an engine manually.
+Traceback (most recent call last):
+  File "d:\research-automation\TB detection delay\scripts\01_ingest_sources_v2.py", line 50, in read_file
+    df = loader(path)
+  File "d:\research-automation\TB detection delay\scripts\01_ingest_sources_v2.py", line 69, in load_excel
+    return pd.read_excel(path)
+           ~~~~~~~~~~~~~^^^^^^
+  File "C:\Python314\Lib\site-packages\pandas\io\excel\_base.py", line 495, in read_excel
+    io = ExcelFile(
+        io,
+    ...<2 lines>...
+        engine_kwargs=engine_kwargs,
+    )
+  File "C:\Python314\Lib\site-packages\pandas\io\excel\_base.py", line 1554, in __init__
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: Excel file format cannot be determined, you must specify an engine manually.
+2025-11-27 00:10:01 - INFO - Saved 0 rows to D:\research-automation\TB detection delay\data\processed\tb_prevalence_clean_v2.csv
+2025-11-27 00:10:01 - INFO - Saved 36 rows to D:\research-automation\TB detection delay\data\processed\nfhs_clean_v2.csv
+2025-11-27 00:10:02 - INFO - Saved 20023 rows to D:\research-automation\TB detection delay\data\processed\census_clean_v2.csv
+2025-11-27 00:10:02 - INFO - Ingestion complete - Version 2.
+2025-11-27 00:16:42 - INFO - Starting ingestion of TB data sources - Version 2.
+2025-11-27 00:16:42 - INFO - Saved 25 rows to D:\research-automation\TB detection delay\data\processed\who_tb_global_clean_v2.csv
+2025-11-27 00:16:42 - INFO - Saved 36 rows to D:\research-automation\TB detection delay\data\processed\india_tb_reports_clean_v2.csv
+2025-11-27 00:16:42 - INFO - Saved 36 rows to D:\research-automation\TB detection delay\data\processed\india_tb_notifications_2025_clean_v2.csv
+2025-11-27 00:16:42 - INFO - Saved 1 rows to D:\research-automation\TB detection delay\data\processed\tb_prevalence_clean_v2.csv
+2025-11-27 00:16:42 - INFO - Saved 36 rows to D:\research-automation\TB detection delay\data\processed\nfhs_clean_v2.csv
+2025-11-27 00:16:44 - INFO - Saved 20023 rows to D:\research-automation\TB detection delay\data\processed\census_clean_v2.csv
+2025-11-27 00:16:44 - INFO - Ingestion complete - Version 2.
+2025-11-27 00:18:06 - INFO - Starting ingestion of TB data sources - Version 2.
+2025-11-27 00:18:06 - INFO - Saved 25 rows to D:\research-automation\TB detection delay\data\processed\who_tb_global_clean_v2.csv
+2025-11-27 00:18:07 - INFO - Saved 36 rows to D:\research-automation\TB detection delay\data\processed\india_tb_reports_clean_v2.csv
+2025-11-27 00:18:07 - INFO - Saved 36 rows to D:\research-automation\TB detection delay\data\processed\india_tb_notifications_2025_clean_v2.csv
+2025-11-27 00:18:07 - INFO - Saved 1 rows to D:\research-automation\TB detection delay\data\processed\tb_prevalence_clean_v2.csv
+2025-11-27 00:18:07 - INFO - Saved 36 rows to D:\research-automation\TB detection delay\data\processed\nfhs_clean_v2.csv
+2025-11-27 00:18:08 - INFO - Saved 20023 rows to D:\research-automation\TB detection delay\data\processed\census_clean_v2.csv
+2025-11-27 00:18:08 - INFO - Ingestion complete - Version 2.
+2025-11-27 01:02:58 - INFO - Starting ingestion of TB data sources - Version 2.
+2025-11-27 01:02:58 - INFO - Saved 25 rows to D:\research-automation\TB detection delay\data\processed\who_tb_global_clean_v2.csv
+2025-11-27 01:02:58 - INFO - Saved 36 rows to D:\research-automation\TB detection delay\data\processed\india_tb_reports_clean_v2.csv
+2025-11-27 01:02:58 - INFO - Saved 36 rows to D:\research-automation\TB detection delay\data\processed\india_tb_notifications_2025_clean_v2.csv
+2025-11-27 01:02:58 - INFO - Saved 1 rows to D:\research-automation\TB detection delay\data\processed\tb_prevalence_clean_v2.csv
+2025-11-27 01:02:58 - INFO - Saved 36 rows to D:\research-automation\TB detection delay\data\processed\nfhs_clean_v2.csv
+2025-11-27 01:03:00 - INFO - Saved 20023 rows to D:\research-automation\TB detection delay\data\processed\census_clean_v2.csv
+2025-11-27 01:03:00 - INFO - Ingestion complete - Version 2.

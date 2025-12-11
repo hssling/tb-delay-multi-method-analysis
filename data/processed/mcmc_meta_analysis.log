@@ -1,0 +1,34 @@
+2025-11-27 13:32:56 - INFO - Starting MCMC Bayesian meta-analysis of TB delays
+2025-11-27 13:32:56 - ERROR - PyMC and ArviZ required for Bayesian meta-analysis
+2025-11-27 15:24:29 - INFO - Starting MCMC Bayesian meta-analysis of TB delays
+2025-11-27 15:24:29 - ERROR - PyMC and ArviZ required for Bayesian meta-analysis
+2025-11-27 15:24:49 - INFO - Starting MCMC Bayesian meta-analysis of TB delays
+2025-11-27 15:24:49 - ERROR - PyMC and ArviZ required for Bayesian meta-analysis
+2025-11-27 15:25:17 - INFO - Starting MCMC Bayesian meta-analysis of TB delays
+2025-11-27 15:25:17 - INFO - Analyzing Patient delay (days)
+2025-11-27 15:25:17 - WARNING - Insufficient studies for patient_delay_days (n=0)
+2025-11-27 15:25:17 - INFO - Analyzing Diagnostic delay (days)
+2025-11-27 15:25:17 - WARNING - Insufficient studies for diagnostic_delay_days (n=0)
+2025-11-27 15:25:17 - INFO - Analyzing Treatment delay (days)
+2025-11-27 15:25:17 - WARNING - Insufficient studies for treatment_delay_days (n=0)
+2025-11-27 15:25:17 - INFO - Analyzing Total delay (days)
+2025-11-27 15:25:17 - WARNING - Insufficient studies for total_delay_days (n=0)
+2025-11-27 15:25:17 - INFO - MCMC Bayesian meta-analysis completed
+2025-11-27 15:26:27 - INFO - Starting MCMC Bayesian meta-analysis of TB delays
+2025-11-27 15:26:27 - INFO - Analyzing Patient delay (days)
+2025-11-27 15:26:27 - INFO - Using NumPyro for Bayesian meta-analysis.
+2025-11-27 15:26:35 - INFO - Saved Bayesian forest plot to D:\research-automation\TB detection delay\output\figures\bayesian_forest_patient_delay_(days).png
+2025-11-27 15:26:36 - INFO - Saved posterior plot to D:\research-automation\TB detection delay\output\figures\bayesian_posterior_patient_delay_(days).png
+2025-11-27 15:26:36 - INFO - Analyzing Diagnostic delay (days)
+2025-11-27 15:26:36 - INFO - Using NumPyro for Bayesian meta-analysis.
+2025-11-27 15:26:40 - INFO - Saved Bayesian forest plot to D:\research-automation\TB detection delay\output\figures\bayesian_forest_diagnostic_delay_(days).png
+2025-11-27 15:26:41 - INFO - Saved posterior plot to D:\research-automation\TB detection delay\output\figures\bayesian_posterior_diagnostic_delay_(days).png
+2025-11-27 15:26:41 - INFO - Analyzing Treatment delay (days)
+2025-11-27 15:26:41 - WARNING - Insufficient studies for treatment_delay_days (n=1)
+2025-11-27 15:26:41 - INFO - Analyzing Total delay (days)
+2025-11-27 15:26:41 - INFO - Using NumPyro for Bayesian meta-analysis.
+2025-11-27 15:26:46 - INFO - Saved Bayesian forest plot to D:\research-automation\TB detection delay\output\figures\bayesian_forest_total_delay_(days).png
+2025-11-27 15:26:47 - INFO - Saved posterior plot to D:\research-automation\TB detection delay\output\figures\bayesian_posterior_total_delay_(days).png
+2025-11-27 15:26:47 - INFO - Saved Bayesian meta-analysis results to D:\research-automation\TB detection delay\data\processed\bayesian_meta_analysis_results.csv
+2025-11-27 15:26:47 - INFO - Saved summary to D:\research-automation\TB detection delay\data\processed\bayesian_meta_analysis_summary.csv
+2025-11-27 15:26:47 - INFO - MCMC Bayesian meta-analysis completed

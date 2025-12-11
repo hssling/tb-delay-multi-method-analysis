@@ -1,0 +1,4 @@
+component,explained_variance_ratio,cumulative_variance,interpretation
+PC1,0.4421787780556936,0.4421787780556936,"PC1 (44.2%): Strongest loadings from literacy_pct, symptomatic_no_care_pct, poverty_pct"
+PC2,0.2388826995235113,0.6810614775792049,"PC2 (23.9%): Strongest loadings from pn_ratio, private_first_provider_pct, in_ratio"
+PC3,0.1112266407477889,0.7922881183269938,"PC3 (11.1%): Strongest loadings from bact_confirmed_pct, crowding_index, poverty_pct"

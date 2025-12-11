@@ -1,0 +1,73 @@
+2025-11-23 21:25:42 - INFO - Loading PubMed literature database from D:\research-automation\TB detection delay\lit\lit_db.csv
+2025-11-23 21:25:42 - INFO - Creating new extraction template with 0 literature records.
+2025-11-23 21:25:42 - WARNING - Literature database is empty; template will remain unchanged.
+2025-11-23 21:25:42 - WARNING - No delay metrics entered yet; writing empty processed file.
+2025-11-23 21:25:42 - INFO - Saved 0 extracted study rows to D:\research-automation\TB detection delay\data\processed\lit_delay_extracted.csv
+2025-11-23 21:27:34 - INFO - Loading PubMed literature database from D:\research-automation\TB detection delay\lit\lit_db.csv
+2025-11-23 21:27:34 - INFO - Creating new extraction template with 0 literature records.
+2025-11-23 21:27:34 - WARNING - Literature database is empty; template will remain unchanged.
+2025-11-23 21:27:34 - WARNING - No delay metrics entered yet; writing empty processed file.
+2025-11-23 21:27:34 - INFO - Saved 0 extracted study rows to D:\research-automation\TB detection delay\data\processed\lit_delay_extracted.csv
+2025-11-23 21:31:00 - INFO - Loading PubMed literature database from D:\research-automation\TB detection delay\lit\lit_db.csv
+2025-11-23 21:31:00 - INFO - Creating new extraction template with 0 literature records.
+2025-11-23 21:31:00 - WARNING - Literature database is empty; template will remain unchanged.
+2025-11-23 21:31:00 - WARNING - No delay metrics entered yet; writing empty processed file.
+2025-11-23 21:31:00 - INFO - Saved 0 extracted study rows to D:\research-automation\TB detection delay\data\processed\lit_delay_extracted.csv
+2025-11-23 21:31:54 - INFO - Loading PubMed literature database from D:\research-automation\TB detection delay\lit\lit_db.csv
+2025-11-23 21:31:55 - INFO - Creating new extraction template with 0 literature records.
+2025-11-23 21:31:55 - WARNING - Literature database is empty; template will remain unchanged.
+2025-11-23 21:31:55 - WARNING - No delay metrics entered yet; writing empty processed file.
+2025-11-23 21:31:55 - INFO - Saved 0 extracted study rows to D:\research-automation\TB detection delay\data\processed\lit_delay_extracted.csv
+2025-11-23 21:32:58 - INFO - Loading PubMed literature database from D:\research-automation\TB detection delay\lit\lit_db.csv
+2025-11-23 21:32:58 - INFO - Creating new extraction template with 198 literature records.
+2025-11-23 21:32:58 - INFO - Extraction template saved to D:\research-automation\TB detection delay\lit\extracted_studies_template.csv
+2025-11-23 21:32:58 - WARNING - No delay metrics entered yet; writing empty processed file.
+2025-11-23 21:32:58 - INFO - Saved 0 extracted study rows to D:\research-automation\TB detection delay\data\processed\lit_delay_extracted.csv
+2025-11-23 21:46:42 - INFO - Loading PubMed literature database from D:\research-automation\TB detection delay\lit\lit_db.csv
+2025-11-23 21:46:42 - INFO - Extraction template saved to D:\research-automation\TB detection delay\lit\extracted_studies_template.csv
+2025-11-23 21:46:42 - INFO - Saved 2 extracted study rows to D:\research-automation\TB detection delay\data\processed\lit_delay_extracted.csv
+2025-11-23 21:47:22 - INFO - Loading PubMed literature database from D:\research-automation\TB detection delay\lit\lit_db.csv
+2025-11-23 21:47:22 - INFO - Extraction template saved to D:\research-automation\TB detection delay\lit\extracted_studies_template.csv
+2025-11-23 21:47:22 - INFO - Saved 2 extracted study rows to D:\research-automation\TB detection delay\data\processed\lit_delay_extracted.csv
+2025-11-23 21:49:14 - INFO - Loading PubMed literature database from D:\research-automation\TB detection delay\lit\lit_db.csv
+2025-11-23 21:49:16 - INFO - Extraction template saved to D:\research-automation\TB detection delay\lit\extracted_studies_template.csv
+2025-11-23 21:49:16 - INFO - Saved 2 extracted study rows to D:\research-automation\TB detection delay\data\processed\lit_delay_extracted.csv
+2025-11-23 21:50:26 - INFO - Loading PubMed literature database from D:\research-automation\TB detection delay\lit\lit_db.csv
+2025-11-23 21:50:29 - INFO - Extraction template saved to D:\research-automation\TB detection delay\lit\extracted_studies_template.csv
+2025-11-23 21:50:29 - INFO - Saved 2 extracted study rows to D:\research-automation\TB detection delay\data\processed\lit_delay_extracted.csv
+2025-11-23 21:54:51 - INFO - Loading PubMed literature database from D:\research-automation\TB detection delay\lit\lit_db.csv
+2025-11-23 21:54:51 - INFO - Extraction template saved to D:\research-automation\TB detection delay\lit\extracted_studies_template.csv
+2025-11-23 21:54:51 - INFO - Saved 2 extracted study rows to D:\research-automation\TB detection delay\data\processed\lit_delay_extracted.csv
+2025-11-23 22:23:57 - INFO - Loading PubMed literature database from D:\research-automation\TB detection delay\lit\lit_db.csv
+2025-11-23 22:23:57 - INFO - Extraction template saved to D:\research-automation\TB detection delay\lit\extracted_studies_template.csv
+2025-11-23 22:23:57 - INFO - Saved 2 extracted study rows to D:\research-automation\TB detection delay\data\processed\lit_delay_extracted.csv
+2025-11-23 22:28:16 - INFO - Loading PubMed literature database from D:\research-automation\TB detection delay\lit\lit_db.csv
+2025-11-23 22:28:16 - INFO - Extraction template saved to D:\research-automation\TB detection delay\lit\extracted_studies_template.csv
+2025-11-23 22:28:16 - INFO - Saved 2 extracted study rows to D:\research-automation\TB detection delay\data\processed\lit_delay_extracted.csv
+2025-11-23 22:39:26 - INFO - Loading PubMed literature database from D:\research-automation\TB detection delay\lit\lit_db.csv
+2025-11-23 22:39:27 - INFO - Extraction template saved to D:\research-automation\TB detection delay\lit\extracted_studies_template.csv
+2025-11-23 22:39:27 - INFO - Saved 2 extracted study rows to D:\research-automation\TB detection delay\data\processed\lit_delay_extracted.csv
+2025-11-23 22:40:08 - INFO - Loading PubMed literature database from D:\research-automation\TB detection delay\lit\lit_db.csv
+2025-11-23 22:40:08 - INFO - Extraction template saved to D:\research-automation\TB detection delay\lit\extracted_studies_template.csv
+2025-11-23 22:40:08 - INFO - Saved 2 extracted study rows to D:\research-automation\TB detection delay\data\processed\lit_delay_extracted.csv
+2025-11-23 23:12:25 - INFO - Loading PubMed literature database from D:\research-automation\TB detection delay\lit\lit_db.csv
+2025-11-23 23:12:27 - INFO - Extraction template saved to D:\research-automation\TB detection delay\lit\extracted_studies_template.csv
+2025-11-23 23:12:27 - INFO - Saved 3 extracted study rows to D:\research-automation\TB detection delay\data\processed\lit_delay_extracted.csv
+2025-11-23 23:21:10 - INFO - Loading PubMed literature database from D:\research-automation\TB detection delay\lit\lit_db.csv
+2025-11-23 23:21:15 - INFO - Extraction template saved to D:\research-automation\TB detection delay\lit\extracted_studies_template.csv
+2025-11-23 23:21:15 - INFO - Saved 5 extracted study rows to D:\research-automation\TB detection delay\data\processed\lit_delay_extracted.csv
+2025-11-23 23:22:29 - INFO - Loading PubMed literature database from D:\research-automation\TB detection delay\lit\lit_db.csv
+2025-11-23 23:22:30 - INFO - Extraction template saved to D:\research-automation\TB detection delay\lit\extracted_studies_template.csv
+2025-11-23 23:22:30 - INFO - Saved 5 extracted study rows to D:\research-automation\TB detection delay\data\processed\lit_delay_extracted.csv
+2025-11-23 23:24:45 - INFO - Loading PubMed literature database from D:\research-automation\TB detection delay\lit\lit_db.csv
+2025-11-23 23:24:45 - INFO - Extraction template saved to D:\research-automation\TB detection delay\lit\extracted_studies_template.csv
+2025-11-23 23:24:45 - INFO - Saved 5 extracted study rows to D:\research-automation\TB detection delay\data\processed\lit_delay_extracted.csv
+2025-11-23 23:39:57 - INFO - Loading PubMed literature database from D:\research-automation\TB detection delay\lit\lit_db.csv
+2025-11-23 23:39:57 - INFO - Extraction template saved to D:\research-automation\TB detection delay\lit\extracted_studies_template.csv
+2025-11-23 23:39:57 - INFO - Saved 5 extracted study rows to D:\research-automation\TB detection delay\data\processed\lit_delay_extracted.csv
+2025-11-27 00:18:09 - INFO - Loading PubMed literature database from D:\research-automation\TB detection delay\lit\lit_db.csv
+2025-11-27 00:18:10 - INFO - Extraction template saved to D:\research-automation\TB detection delay\lit\extracted_studies_template.csv
+2025-11-27 00:18:10 - INFO - Saved 5 extracted study rows to D:\research-automation\TB detection delay\data\processed\lit_delay_extracted.csv
+2025-11-27 01:03:02 - INFO - Loading PubMed literature database from D:\research-automation\TB detection delay\lit\lit_db.csv
+2025-11-27 01:03:02 - INFO - Extraction template saved to D:\research-automation\TB detection delay\lit\extracted_studies_template.csv
+2025-11-27 01:03:02 - INFO - Saved 5 extracted study rows to D:\research-automation\TB detection delay\data\processed\lit_delay_extracted.csv

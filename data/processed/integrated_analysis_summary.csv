@@ -1,0 +1,13 @@
+method,metric,value,uncertainty,confidence,n_studies
+MCMC Bayesian,Patient delay (days),15.50818157196045,9.9 - 20.9,95% HDI,3
+MCMC Bayesian,Diagnostic delay (days),20.859508514404297,12.1 - 28.7,95% HDI,3
+MCMC Bayesian,Total delay (days),31.253623962402344,21.8 - 41.1,95% HDI,5
+PCA,PC1 Explained Variance,0.4421787780556936,N/A,Deterministic,31
+PCA,PC2 Explained Variance,0.2388826995235113,N/A,Deterministic,31
+PCA,PC3 Explained Variance,0.1112266407477889,N/A,Deterministic,31
+PCA,PC4 Explained Variance,0.0738079848230555,N/A,Deterministic,31
+PCA,PC5 Explained Variance,0.0531760565992946,N/A,Deterministic,31
+PCA,PC6 Explained Variance,0.0349082055625556,N/A,Deterministic,31
+PCA,PC7 Explained Variance,0.0275566238377445,N/A,Deterministic,31
+PCA,PC8 Explained Variance,0.0182630108503557,N/A,Deterministic,31
+DAG,Network Density,0.2142857142857142,N/A,Topological,8

@@ -1,0 +1,77 @@
+2025-11-23 21:25:50 - WARNING - Could not find columns for proxy pn_ratio
+2025-11-23 21:25:50 - WARNING - Could not find columns for proxy in_ratio
+2025-11-23 21:25:50 - WARNING - Could not find columns for proxy symptomatic_no_care_pct
+2025-11-23 21:25:50 - WARNING - Could not find columns for proxy private_first_provider_pct
+2025-11-23 21:25:50 - WARNING - Could not find columns for proxy bact_confirmed_pct
+2025-11-23 21:25:50 - WARNING - Could not find columns for proxy crowding_index
+2025-11-23 21:25:50 - WARNING - Could not find columns for proxy poverty_pct
+2025-11-23 21:25:52 - INFO - Assigned clusters (k=4)
+2025-11-23 21:25:52 - INFO - Proxy indicators saved to D:\research-automation\TB detection delay\data\processed\proxy_delay_results.csv
+2025-11-23 21:27:41 - WARNING - Could not find columns for proxy pn_ratio
+2025-11-23 21:27:41 - WARNING - Could not find columns for proxy in_ratio
+2025-11-23 21:27:41 - WARNING - Could not find columns for proxy symptomatic_no_care_pct
+2025-11-23 21:27:41 - WARNING - Could not find columns for proxy private_first_provider_pct
+2025-11-23 21:27:41 - WARNING - Could not find columns for proxy bact_confirmed_pct
+2025-11-23 21:27:41 - WARNING - Could not find columns for proxy crowding_index
+2025-11-23 21:27:41 - WARNING - Could not find columns for proxy poverty_pct
+2025-11-23 21:27:43 - INFO - Assigned clusters (k=4)
+2025-11-23 21:27:43 - INFO - Proxy indicators saved to D:\research-automation\TB detection delay\data\processed\proxy_delay_results.csv
+2025-11-23 21:31:04 - WARNING - Could not find columns for proxy pn_ratio
+2025-11-23 21:31:04 - WARNING - Could not find columns for proxy in_ratio
+2025-11-23 21:31:04 - WARNING - Could not find columns for proxy symptomatic_no_care_pct
+2025-11-23 21:31:04 - WARNING - Could not find columns for proxy private_first_provider_pct
+2025-11-23 21:31:04 - WARNING - Could not find columns for proxy bact_confirmed_pct
+2025-11-23 21:31:04 - WARNING - Could not find columns for proxy crowding_index
+2025-11-23 21:31:04 - WARNING - Could not find columns for proxy poverty_pct
+2025-11-23 21:31:06 - INFO - Assigned clusters (k=4)
+2025-11-23 21:31:06 - INFO - Proxy indicators saved to D:\research-automation\TB detection delay\data\processed\proxy_delay_results.csv
+2025-11-23 21:31:57 - WARNING - Could not find columns for proxy pn_ratio
+2025-11-23 21:31:57 - WARNING - Could not find columns for proxy in_ratio
+2025-11-23 21:31:57 - WARNING - Could not find columns for proxy symptomatic_no_care_pct
+2025-11-23 21:31:57 - WARNING - Could not find columns for proxy private_first_provider_pct
+2025-11-23 21:31:57 - WARNING - Could not find columns for proxy bact_confirmed_pct
+2025-11-23 21:31:57 - WARNING - Could not find columns for proxy crowding_index
+2025-11-23 21:31:57 - WARNING - Could not find columns for proxy poverty_pct
+2025-11-23 21:31:59 - INFO - Assigned clusters (k=4)
+2025-11-23 21:31:59 - INFO - Proxy indicators saved to D:\research-automation\TB detection delay\data\processed\proxy_delay_results.csv
+2025-11-23 21:33:02 - WARNING - Could not find columns for proxy pn_ratio
+2025-11-23 21:33:02 - WARNING - Could not find columns for proxy in_ratio
+2025-11-23 21:33:02 - WARNING - Could not find columns for proxy symptomatic_no_care_pct
+2025-11-23 21:33:02 - WARNING - Could not find columns for proxy private_first_provider_pct
+2025-11-23 21:33:02 - WARNING - Could not find columns for proxy bact_confirmed_pct
+2025-11-23 21:33:02 - WARNING - Could not find columns for proxy crowding_index
+2025-11-23 21:33:02 - WARNING - Could not find columns for proxy poverty_pct
+2025-11-23 21:33:04 - INFO - Assigned clusters (k=4)
+2025-11-23 21:33:04 - INFO - Proxy indicators saved to D:\research-automation\TB detection delay\data\processed\proxy_delay_results.csv
+2025-11-23 21:46:57 - INFO - Assigned clusters (k=4)
+2025-11-23 21:46:57 - INFO - Proxy indicators saved to D:\research-automation\TB detection delay\data\processed\proxy_delay_results.csv
+2025-11-23 21:47:29 - INFO - Assigned clusters (k=4)
+2025-11-23 21:47:29 - INFO - Proxy indicators saved to D:\research-automation\TB detection delay\data\processed\proxy_delay_results.csv
+2025-11-23 21:48:15 - INFO - Assigned clusters (k=4)
+2025-11-23 21:48:15 - INFO - Proxy indicators saved to D:\research-automation\TB detection delay\data\processed\proxy_delay_results.csv
+2025-11-23 22:24:04 - INFO - Assigned clusters (k=4)
+2025-11-23 22:24:04 - INFO - Proxy indicators saved to D:\research-automation\TB detection delay\data\processed\proxy_delay_results.csv
+2025-11-23 22:28:23 - INFO - Assigned clusters (k=4)
+2025-11-23 22:28:23 - INFO - Proxy indicators saved to D:\research-automation\TB detection delay\data\processed\proxy_delay_results.csv
+2025-11-23 23:40:15 - INFO - Assigned clusters (k=4)
+2025-11-23 23:40:15 - INFO - Proxy indicators saved to D:\research-automation\TB detection delay\data\processed\proxy_delay_results.csv
+2025-11-24 00:22:37 - INFO - Assigned clusters (k=4)
+2025-11-24 00:22:37 - WARNING - PyMC/ArviZ not installed; skipping Bayesian modelling step.
+2025-11-24 00:22:37 - INFO - Proxy indicators saved to D:\research-automation\TB detection delay\data\processed\proxy_delay_results.csv
+2025-11-24 01:09:11 - INFO - Assigned clusters (k=4)
+2025-11-24 01:09:11 - WARNING - PyMC/ArviZ not installed; skipping Bayesian modelling step.
+2025-11-24 01:09:11 - INFO - Proxy indicators saved to D:\research-automation\TB detection delay\data\processed\proxy_delay_results.csv
+2025-11-24 01:16:43 - INFO - Assigned clusters (k=4)
+2025-11-24 01:17:38 - INFO - Bayesian modelling completed for 31 states.
+2025-11-24 01:17:38 - INFO - Saved Bayesian predictions to D:\research-automation\TB detection delay\data\processed\bayesian_delay_predictions.csv
+2025-11-24 01:17:38 - INFO - Saved Bayesian coefficients to D:\research-automation\TB detection delay\data\processed\bayesian_delay_coefficients.csv
+2025-11-24 01:17:38 - INFO - Proxy indicators saved to D:\research-automation\TB detection delay\data\processed\proxy_delay_results.csv
+2025-11-27 00:18:18 - INFO - Assigned clusters (k=4)
+2025-11-27 00:18:18 - WARNING - PyMC/ArviZ not installed; skipping Bayesian modelling step.
+2025-11-27 00:18:18 - INFO - Proxy indicators saved to D:\research-automation\TB detection delay\data\processed\proxy_delay_results.csv
+2025-11-27 00:47:07 - INFO - Assigned clusters (k=4)
+2025-11-27 00:47:07 - WARNING - PyMC/ArviZ not installed; skipping Bayesian modelling step.
+2025-11-27 00:47:07 - INFO - Proxy indicators saved to D:\research-automation\TB detection delay\data\processed\proxy_delay_results.csv
+2025-11-27 01:03:08 - INFO - Assigned clusters (k=4)
+2025-11-27 01:03:08 - WARNING - PyMC/ArviZ not installed; skipping Bayesian modelling step.
+2025-11-27 01:03:08 - INFO - Proxy indicators saved to D:\research-automation\TB detection delay\data\processed\proxy_delay_results.csv

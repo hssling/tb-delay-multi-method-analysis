@@ -1,0 +1,36 @@
+who_region,country,main_year_of_field_operations,total_tb_survey_cases,total_tb_survey_cases_who_were_cxr_positive_only,bact_or_smear_positive_category,proportion_of_tb_survey_cases_who_were_cxr_positive_only,source_dataset
+SEAR,Bangladesh,2015,278,172,b,61.87050359712231,tb_prevalence
+WPR,Cambodia (2010–2011),2011,314,221,b,70.38216560509554,tb_prevalence
+WPR,Cambodia (2023–2024),2024,195,164,b,84.1025641025641,tb_prevalence
+WPR,China,2010,347,182,b,52.44956772334294,tb_prevalence
+SEAR,Democratic People's Republic of Korea,2016,340,148,b,43.529411764705884,tb_prevalence
+AFR,Eswatini,2018,66,40,b,60.60606060606061,tb_prevalence
+AFR,Ethiopia,2011,110,53,b,48.18181818181818,tb_prevalence
+AFR,Gambia,2012,77,33,b,42.857142857142854,tb_prevalence
+AFR,Ghana,2013,202,85,b,42.07920792079208,tb_prevalence
+SEAR,India,2020,981,545,b,55.55555555555556,tb_prevalence
+WPR,Indonesia,2013,426,181,b,42.48826291079813,tb_prevalence
+AFR,Kenya,2015,305,154,b,50.49180327868853,tb_prevalence
+WPR,Lao People's Democratic Republic,2011,237,119,b,50.210970464135016,tb_prevalence
+AFR,Lesotho,2019,132,78,b,59.09090909090909,tb_prevalence
+AFR,Malawi,2013,132,40,b,30.303030303030305,tb_prevalence
+WPR,Mongolia,2015,248,194,b,78.2258064516129,tb_prevalence
+AFR,Mozambique,2019,89,41,b,46.06741573033708,tb_prevalence
+SEAR,Myanmar (2009–2010),2009,311,245,b,78.77813504823152,tb_prevalence
+SEAR,Myanmar (2017–2018),2018,322,277,b,86.0248447204969,tb_prevalence
+AFR,Namibia,2018,123,62,b,50.40650406504065,tb_prevalence
+SEAR,Nepal,2018,225,165,b,73.33333333333333,tb_prevalence
+AFR,Nigeria,2012,144,52,b,36.11111111111111,tb_prevalence
+EMR,Pakistan,2011,341,135,b,39.589442815249264,tb_prevalence
+WPR,Philippines (2007),2007,151,56,b,37.086092715231786,tb_prevalence
+WPR,Philippines (2016),2016,466,298,b,63.94849785407726,tb_prevalence
+AFR,Rwanda,2012,40,21,b,52.5,tb_prevalence
+AFR,South Africa,2018,234,135,b,57.692307692307686,tb_prevalence
+EMR,Sudan,2013,112,45,b,40.17857142857143,tb_prevalence
+SEAR,Thailand,2012,142,94,b,66.19718309859155,tb_prevalence
+AFR,Uganda,2015,160,81,b,50.625,tb_prevalence
+AFR,United Republic of Tanzania,2012,134,48,s,35.82089552238806,tb_prevalence
+WPR,Viet Nam (2006–2007),2007,269,160,b,59.479553903345725,tb_prevalence
+WPR,Viet Nam (2017–2018),2018,221,134,b,60.633484162895925,tb_prevalence
+AFR,Zambia,2014,265,104,b,39.24528301886793,tb_prevalence
+AFR,Zimbabwe,2014,107,64,b,59.813084112149525,tb_prevalence

@@ -1,0 +1,253 @@
+pmid,title,state,study_year,setting_public_private,sample_size,patient_delay_days,patient_delay_se,diagnostic_delay_days,diagnostic_delay_se,treatment_delay_days,treatment_delay_se,total_delay_days,total_delay_se,notes,extraction_status
+36852792,Isoniazid Loaded PCL-PEG Copolymer Nanoparticles for Sustained Release Application.,Uttar Pradesh,2023,,,,,,,,,,,,
+36874895,Knee Tuberculosis Presenting As Pigmented villonodular Synovitis.,,2022,1.0,,,,,,,,,,Case report,manual_verified
+36960663,Primary Hemophagocytic Lymphohistiocytosis With Prolonged Primary Neurologic Presentation.,,2023,1.0,,,,,,,,,,Case report,manual_verified
+36982586,Safety and Immunogenicity of Recombinant <i>Bacille Calmette-Guérin</i> Strain VPM1002 and Its Derivatives in a Goat Model.,Goa,2023,,,,,,,,,,,,
+37065338,Report of a Rare Case of Pubic Symphysis Tuberculosis in an Eight-Year-Old Child: An Unusual Presentation of the Disease.,Uttar Pradesh,2023,1.0,,,,,,,,,,Case report,manual_verified
+37077081,A rare case of smear positive tuberculous arthritis.,,2023,1.0,,,,,,,,,,Case report,manual_verified
+37100573,"TB related stigma and gender disparity among unaffected population in central Kerala, a survey.",Kerala,2023,,,,,,,,,,,,
+37100576,"Effect of time, temperature and pH on Mycobacterium tuberculosis culture positivity of gastric aspirate: An experimental study.",Dadra & Nagar Haveli And Daman & Diu,2023,,,,,,,,,,,,
+37100583,Acral involvement in lichen scrofulosorum: A diagnostic oddity with distinctive features on dermoscopy.,,2023,1.0,,,,,,,,,,Case report,manual_verified
+37130642,Phyllodes tumour initially diagnosed as keloid.,Madhya Pradesh,2023,1.0,,,,,,,,,,Case report,manual_verified
+37143553,Fatal Case of Giant Chondrosarcoma of Rib with Paraplegia: A Case Report.,Uttar Pradesh,2023,1.0,,,,,,,,,,Case report,manual_verified
+37160247,Long-acting parenteral drug delivery systems for the treatment of chronic diseases.,,2023,,,,,,,,,,,,
+37164819,"BCG∆BCG1419c and BCG differ in induction of autophagy, c-di-GMP content, proteome, and progression of lung pathology in Mycobacterium tuberculosis HN878-infected male BALB/c mice.",Madhya Pradesh,2023,,,,,,,,,,,,
+37198982,"The Extent of Delay in Diagnosis, Treatment and their Associated Factors among Tuberculosis Patients Attending Government Hospitals of Rishikesh, Uttarakhand: A Cross-Sectional Study.",Uttarakhand,2024,,public,130.0,130.0,16.0,,78.5,,4.0,,81.0,,,manual_verified
+37202936,Heteroresistance to rifampicin & isoniazid in clinical samples of patients with presumptive drug-resistant tuberculosis in Central India.,,2023,,,,,,,,,,,,
+37234337,Jaw actinomycosis-An opportunistic infection: Case series.,Uttar Pradesh,2023,,,,,,,,,,,,
+37236420,The immune response in tubercular uveitis and its implications for treatment: From anti-tubercular treatment to host-directed therapies.,,2023,,,,,,,,,,,,
+37304408,Efficacy of LAMP assay for Mycobacterial spp. detection to prevent treatment delays and onset of drug resistance: a systematic review and meta-analysis.,Madhya Pradesh,2023,,,,,,,,,,,,
+37335340,Clinicopathologic characteristics and outcomes of late onset lupus nephritis: a single centre experience.,Uttar Pradesh,2023,,15.0,,,,,,,,,,
+37338470,Impact of anemia on sputum smear conversion and treatment outcomes among newly diagnosed tuberculosis patients in Southern India.,Uttar Pradesh,2023,,,,,,,,,,,,
+37354752,Effect of prediabetes on tuberculosis treatment outcomes: A study from South India.,Uttar Pradesh,2023,,,,,,,,,,,,
+37388508,First case of primary appendiceal tuberculosis presented as stump appendicitis.,Kerala,2023,1.0,,,,,,,,,,Case report,manual_verified
+37402589,Successful management of delayed postoperative lung collapse secondary to spillage of aspergilloma.,,2023,,,,,,,,,,,,
+37409311,Superior Mesenteric Artery Syndrome as a Rare Cause of Postoperative Intractable Vomiting: A Case Report.,Uttar Pradesh,2023,1.0,,,,,,,,,,Case report,manual_verified
+37429151,Limited sampling strategies for therapeutic drug monitoring of anti-tuberculosis medications: A systematic review of their feasibility and clinical utility.,,2023,,,,,,,,,,,,
+37433855,ResR/McdR-regulated protein translation machinery contributes to drug resilience in Mycobacterium tuberculosis.,Uttar Pradesh,2023,,,,,,,,,,,,
+37459028,Time Elapsed from onset of symptoms to antituberculosis treatment in children with central nervous system tuberculosis in a tertiary hospital in South India: A mixed-methods pilot study.,South India,2023,tertiary,38.0,,,,,,,23.0,,Median time from symptom onset to antituberculosis treatment: 23 days (IQR 11-55).,tool_extracted
+37468869,Differentiating gastrointestinal tuberculosis and Crohn's disease- a comprehensive review.,Uttar Pradesh,2023,,,,,,,,,,,,
+37498858,"Intersections of informal work status, gender and tuberculosis diagnosis: Insights from a qualitative study from an Indian setting.",Uttar Pradesh,2023,,,,,,,,,,,,
+37521401,Coinfection of Streptococcus agalactiae and Tuberculous Osteomyelitis of Tibia Mimicking Brodie's Abscess in an Immunocompetent Adult: A Case Report.,Kerala,2023,1.0,,,,,,,,,,Case report,manual_verified
+37635510,Diffusion Restriction in Bilateral Thalami: Beyond Artery of Percheron Infarct.,,2023,,,,,,,,,,,,
+37636756,Limited Granulomatosis With Polyangiitis of Nose and Paranasal Sinuses - a Case Report.,Uttar Pradesh,2023,1.0,,,,,,,,,,Case report,manual_verified
+37658369,Factors affecting ability of TB patients to follow treatment guidelines - applying a capability approach.,Kerala,2023,,,,,,,,,,,,
+37667730,"Knowledge Among Junior Doctors About the Collection and Transport of Samples for Tuberculosis Diagnosis in a Medical College Hospital in Coastal Karnataka, India.",Karnataka,2023,,,,,,,,,,,,
+37668730,Unveiling foot tuberculosis as an under-recognized source of foot pain.,Goa,2024,1.0,,,,,,,,,,Case report,manual_verified
+37696514,Case Report: Nocardia amamiensis Infection Leading to Worsening of Chronic Obstructive Pulmonary Disease Symptoms in an Elderly Man.,,2023,1.0,,,,,,,,,,Case report,manual_verified
+37711937,Melioidosis as a Mystique Infection: A Study From Central India.,,2023,,,,,,,,,,,,
+37732197,A Nanopore sequencing-based pharmacogenomic panel to personalize tuberculosis drug dosing.,,2023,,48.0,,,,,,,,,,
+37789748,"Paradoxical reaction in peripheral lymph node tuberculosis: a review of its prevalence, clinical characteristics, and possible treatment.",Uttar Pradesh,2025,,,,,,,,,,,,
+37873771,"Can Hydrogen Water Enhance Oxygen Saturation in Patients with Chronic Lung Disease? A Non-Randomized, Observational Pilot Study.",,2023,,,,,,,,,,,,
+37886056,Comprehensive assessment of invalid and indeterminate results in Truenat MTB-RIF testing across sites under the national TB elimination program of India.,Uttar Pradesh,2023,,,,,,,,,,,,
+38047053,"Delays in Lung Cancer Diagnosis: Observations from a Tertiary Care Centre in Kerala, India.",Kerala,2023,,,,,,,,,,,,
+38049975,18 F-FDG PET/CT in Renal Allograft Tuberculosis Mimicking as Posttransplant Malignancy.,,2024,1.0,,,,,,,,,,Case report,manual_verified
+38079438,"Feasibility, enablers and challenges of using timeliness metrics for household contact tracing and TB preventive therapy in Pakistan.",Uttar Pradesh,2023,,,,,,,,,,,,
+38110254,"Indolent ulcer and discharging sinus on the eyelid of healthy Indian children and an adult: Orbital tuberculosis, a spot-diagnosis.",,2023,1.0,,,,,,,,,,Case report,manual_verified
+38110267,Perceptions and challenges among health care providers about HIV-TB co-infected children- A qualitative study.,Uttar Pradesh,2023,,,,,,,,,,,,
+38138142,Temporal Profiling of Host Proteome against Different <i>M. tuberculosis</i> Strains Reveals Delayed Epigenetic Orchestration.,,2023,,,,,,,,,,,,
+38149550,Tubercular osteomyelitis of calcaneum in an immunocompetent adult.,Uttar Pradesh,2023,1.0,,,,,,,,,,Case report,manual_verified
+38153918,"Addressing patients' unmet needs related to multidrug-resistant tuberculosis (MDR-TB) care: A qualitative research study from Pune city, India.",Uttar Pradesh,2024,,,,,,,,,,,,
+38161267,Effect of Bedaquiline and Delamanid Pharmacokinetics on Sputum Culture Conversion and Adverse Events in Drug-Resistant Tuberculosis.,,2024,,,,,,,,,,,,
+38166734,Exploring private sector perspectives on barriers and facilitators in availing tuberculosis care cascade services: a qualitative study from the Indian state.,Jharkhand,2024,,,,,,,,,,,,
+38251204,"Test and Treat Model for Tuberculosis Preventive Treatment among Household Contacts of Pulmonary Tuberculosis Patients in Selected Districts of Maharashtra: A Mixed-Methods Study on Care Cascade, Timeliness, and Early Implementation Challenges.",Maharashtra,2023,public,14172.0,,,,,,,64.0,,Median time to TPT initiation: 64 days; to screening: 31 days.,tool_extracted
+38269612,Kidney transplantation in patients on anti-tubercular therapy: A single centre observational study.,Uttar Pradesh,2024,,,,,,,,,,,,
+38273246,"Direct benefit transfer for nutritional support of patients with TB in India-analysis of national TB program data of 3.7 million patients, 2018-2022.",Uttar Pradesh,2024,3700000.0,,,,,,,,,,National program data analysis,manual_verified
+38291648,Uncovering the Unknown: Granulomatous Peritonitis After Right Ovarian Cystectomy at a Tertiary Care Center in South India-A Case Report.,,2024,1.0,,,,,,,,,,Case report,manual_verified
+38312835,The uncharted territory of host-pathogen interaction in tuberculosis.,Uttar Pradesh,2024,,,,,,,,,,,,
+38327565,Immune-endocrine network in diabetes-tuberculosis nexus: does latent tuberculosis infection confer protection against meta-inflammation and insulin resistance?,,2024,,,,,,,,,,,,
+38358181,"Etiopathogenesis, diagnostic evaluation, and management of ovarian tuberculosis: A systematic review.",Uttar Pradesh,2024,,,,,,,,,,,,
+38358903,Discovery of Species-Specific Proteotypic Peptides To Establish a Spectral Library Platform for Identification of Nontuberculosis Mycobacteria from Mass Spectrometry-Based Proteomics.,,2024,,,,,,,,,,,,
+38420252,Multilevel Pre-extensively Drug-resistant Tubercular Spondylodiscitis: Underdiagnosed or Overlooked? A Case Report.,,2024,1.0,,,,,,,,,,Case report,manual_verified
+38454186,"Using timeliness metrics for household contact tracing and TB preventive therapy in the private sector, India.",Tamil Nadu,2024,private,556.0,,,,,,,,"7-1-7 metrics: First 7: 90%, Next 1: 48%, Second 7: 57%; TPT uptake 24%. No mean times reported.",tool_extracted
+38482155,Averting catastrophic tuberculosis costs in an Indian state: integration of Ayushman Bharat Arogya Karnataka with National Tuberculosis Elimination Program.,Goa,2024,,,,,,,,,,,,
+38488890,Clinical profile and challenges faced in the management of optic neuritis: the Indian scenario.,,2024,,,,,,,,,,,,
+38513873,Diagnosis of extra pulmonary tuberculosis: An update on novel diagnostic approaches.,Uttar Pradesh,2024,,,,,,,,,,,,
+38531557,Tuberculous pyomyositis presenting as septic arthritis and multiple site pyomyositis.,Uttar Pradesh,2024,1.0,,,,,,,,,,Case report,manual_verified
+38544544,Multiple Metacarpal Loss Secondary to Tuberculous Dactylitis: Challenges and Management: A Case Report.,Uttar Pradesh,2024,1.0,,,,,,,,,,Case report,manual_verified
+38597637,Whole-genome sequencing of clinical isolates from tuberculosis patients in India: real-world data indicates a high proportion of pre-XDR cases.,Uttar Pradesh,2024,,,,,,,,,,,,
+38647526,A Nanopore Sequencing-based Pharmacogenomic Panel to Personalize Tuberculosis Drug Dosing.,,2024,,,,,,,,,,,,
+38669225,Catastrophic costs for tuberculosis patients in India: Impact of methodological choices.,Assam,2024,,,,,,,,,,,,
+38771286,Spinal Tuberculosis: An Exhaustive Diagnosis.,Uttar Pradesh,2024,,,,,,,,,,,,
+38783334,Need for operational simplicity and timely disbursal of benefits-a qualitative exploration of the implementation of a direct benefit transfer scheme for persons with tuberculosis in India.,Uttar Pradesh,2024,,,,,,,,,,,,
+38800156,Disseminated Tuberculosis Masquerading as Alcoholic Liver Disease.,,2024,1.0,,,,,,,,,,Case report,manual_verified
+38800244,"Disseminated Tuberculosis of the Lungs, Brain, Pleurae, Mediastinal Lymphadenopathy, and Elbow Joint in an Immunocompetent Indian Female: A First-of-Its-Type Case.",Uttar Pradesh,2024,1.0,,,,,,,,,,Case report,manual_verified
+38800587,A ten-year experience of musculoskeletal tuberculosis at a tertiary care hospital in South India.,Uttar Pradesh,2024,,,,,,,,,,,,
+38805509,Barriers to engagement in the care cascade for tuberculosis disease in India: A systematic review of quantitative studies.,Uttar Pradesh,2024,,,,,,,,,,,,
+38809023,Immunoinhibitory effects of anti-tuberculosis therapy induce the host vulnerability to tuberculosis recurrence.,,2024,,,,,,,,,,,,
+38841219,"Clinico-Laboratory Profile of Tuberculides: An Experience at a Tertiary Care Centre from Chandigarh, India.",Chandigarh,2024,,,,,,,,,,,,
+38883520,Isolated Extra-Pulmonary Tuberculosis in ENT: A Commonly Missed Diagnosis.,,2024,,,,,,,,,,,,
+38916384,Exploring the Complexities: Understanding the Clinicopathological Spectrum of Tuberculosis in the Head-and-neck Region.,Uttar Pradesh,2024,,,,,,,,,,,,
+38948543,Reasons and extent of delay in the diagnosis of pulmonary tuberculosis after the appearance of symptoms.,Uttar Pradesh,2024,,2053.0,,,31.77,,5.82,,,36.33,,"Mean from onset to diagnosis: 36.33 days; provider delay: 31.77 days; hospital delay: 5.82 days. Range 8-240 days.",tool_extracted
+38954723,Optimizing the cascade of prevention to protect people from tuberculosis: A potential game changer for reducing global tuberculosis incidence.,Uttar Pradesh,2024,,,,,,,,,,,,
+38955384,Camptodactyly-arthropathy-coxa vara-pericarditis (CACP) syndrome.,,2024,,,,,,,,,,,,
+38978944,Tuberculosis of the Femur With Intramedullary Abscesses and No Pulmonary Foci in an Immunocompetent Male: A Rare Case.,,2024,1.0,,,,,,,,,,Case report,manual_verified
+38988406,TB preventive therapy: uptake and time to initiation during implementation of '7-1-7'.,Tamil Nadu,2024,private,5166.0,,,,6.0,,,,"Median time to TPT initiation: 6 days (IQR 3-10); uptake 31.7%.",tool_extracted
+38990593,Reevaluating Diagnosis of Sarcoidosis: Biopsy with Necrosis in Mycobacterial Endemic Areas.,,2024,,,,,,,,,,,,
+39006181,Rare Extrapulmonary Tuberculosis: Covert symptoms and Diagnostic Dilemma.,Dadra & Nagar Haveli And Daman & Diu,2024,1.0,,,,,,,,,,Case report,manual_verified
+39011006,Strengthening the Diagnosis of Drug-Resistant Tuberculosis Using NGS-Based Approaches and Bioinformatics Pipelines for Data Analysis in India.,,2024,,,,,,,,,,,,
+39034827,"<i>Ni-kshay Poshan Yojana</i>: receipt and utilization among persons with TB notified under the National TB Elimination Program in India, 2022.",Uttar Pradesh,2024,,,,,,,,,,,,
+39035370,Multifocal Skeletal Tuberculosis - A Case Report.,,2024,1.0,,,,,,,,,,Case report,manual_verified
+39039832,Letter: Extreme diagnostic delay due to misdiagnosis of gastrointestinal tuberculosis later diagnosed as postoperative Crohn's disease.,,2024,1.0,,,,,,,,"Extreme diagnostic delay due to misdiagnosis; specific days not quantified in abstract.",tool_extracted
+39067963,"Isoniazid monoresistant tuberculosis treatment outcomes in Puducherry, South India - A mixed methods study.",Uttar Pradesh,2024,,,,,,,,,,,,
+39081440,Prospective Evaluation of Safety and Diagnostic Efficacy of Medical Thoracoscopy in Undiagnosed Exudative Pleural Effusion: Experience From a Tuberculosis High-Burden Country.,,2024,,,,,,,,,,,,
+39111932,"Sociocultural aspects of delays in diagnosis among tuberculosis-diabetes comorbid patients in Satara, India: Its implications for the implementation of the national framework for joint tuberculosis-diabetes collaborative activities.",Maharashtra,2024,,180.0,,,,,,,,"Delays after two weeks due to sociocultural factors like stigma, symptoms, perceived causes.",tool_extracted
+39111936,"Coverage, delays and implementation challenges of 'Direct Benefit Transfer' in the National Tuberculosis Elimination Programme - A mixed methods study.",Maharashtra,2024,,3373.0,,,,,,,,"DBT coverage 76.81%; delays in delivery due to software errors, staff issues, etc.",tool_extracted
+39111947,End TB strategy: Role of tobacco control.,,2024,,,,,,,,,,,,
+39163084,An Unusual Presentation of Extrapulmonary Tuberculosis in a Fibrocalculous Pancreatic Diabetes Patient.,,2024,1.0,,,,,,,,,,Case report,manual_verified
+39165497,A case report of tuberculous meningitis resulting in irreversible visual impairment due to delayed diagnosis.,,2024,1.0,,,,,,,,"Delayed diagnosis leading to visual impairment; specific days not quantified.",manual_review
+39183619,The five hundred rupee note.,Uttar Pradesh,2024,,,,,,,,,,,,
+39194079,"A critical analysis of the decreasing trends in tuberculosis cure indicators in BrazilAuthors' replyA critical analysis of the decreasing trends in tuberculosis cure indicators in Brazil, 2001-2022Evaluation of data quality, timeliness and acceptability of the tuberculosis surveillance system in Brazil's micro-regions Cien Saude.",,2024,,,,,,,,,,,,
+39195619,The Content Validity of an Instrument That Measures Health-Seeking Behavior for Tuberculosis among People Living with HIV in India.,,2024,,,,,,,,,,,,
+39225384,"Adapting and Evaluating a Brief Advice Tobacco Cessation Intervention in High-reach, Low-resource Settings in India: Protocol for a Cluster Randomized Controlled Trial.",Uttar Pradesh,2024,,,,,,,,,,,,
+39240337,Therapeutic drug monitoring in tuberculosis.,,2024,,,,,,,,,,,,
+39278673,To correlate clinical and biochemical profile of pleural effusion: a retrospective study in tertiary care centre of central India.,Goa,2024,,,,,,,,,,,,
+39278681,Unmasking the enigma: Investigating the clinicoepidemiological and histopathological dimensions of cutaneous tuberculosis in a Western Indian tertiary care hospital.,Uttar Pradesh,2024,,,,,,,,,,,,
+39278683,"My tuberculosis epidemiology journey: Implications for TB program interventions, activities and strategy.",Uttar Pradesh,2024,,,,,,,,,,,,
+39360505,Tuberculous calcific constrictive pericarditis in an adult female with a past history of abdominal tuberculosis.,,2025,1.0,,,,,,,,,,Case report,manual_verified
+39370189,Financial hardship of tuberculosis patients registered under National Tuberculosis Elimination Programme (NTEP) in rural India: A longitudinal study.,Odisha,2024,,,,,,,,,,,,
+39376317,Clinicopathological Profile in Patients with Tubercular Cervical Lymphadenitis and Its Treatment Outcome.,Haryana,2024,,,,,,,,,,,,
+39390870,A Rare Presentation of a Common Disease: A Case Report.,Uttar Pradesh,2024,1.0,,,,,,,,,,Case report,manual_verified
+39400859,Orbital tuberculosis presenting as vision loss and headache: early management is paramount.,Uttar Pradesh,2024,1.0,,,,,,,,,,Case report,manual_verified
+39485073,Overcoming antibiotic resistance: the potential and pitfalls of drug repurposing.,Uttar Pradesh,2025,,,,,,,,,,,,
+39536643,Modulating sonic hedgehog (SHH) pathway to create a rapid CNS-TB model: Facilitating drug discovery.,Uttar Pradesh,2024,,,,,,,,,,,,
+39539905,Comparative Evaluation of GeneXpert With Ziehl-Neelsen (ZN) Stain in Samples of Suspected Tuberculosis Cases at a Tertiary Care Teaching Hospital in Central India.,Uttar Pradesh,2024,,,,,,,,,,,,
+39543461,CNS histoplasmosis coexisting with pulmonary tuberculosis in a HIV negative patient: case report.,Uttar Pradesh,2024,1.0,,,,,,,,,,Case report,manual_verified
+39563119,Gastrointestinal Tuberculosis: 8-year Experience from a Tertiary Care Hospital in North India.,Uttar Pradesh,2024,,,,,,,,,,,,
+39569228,"Clinical Presentations, Treatments, and Complications of Ileal Perforation at a Tertiary Center: A Cross-Sectional Study.",Uttar Pradesh,2024,,,,,,,,,,,,
+39606314,Calvarial Tuberculosis: Shifting Paradigm from Surgical to Conservative Approach.,Haryana,2024,1.0,,,,,,,,,,Case report,manual_verified
+39622551,Pulmonary thromboembolism presenting with hoarseness of voice.,,2024,,,,,,,,,,,,
+39640348,Tubercular arachnoiditis: A rare culprit of paraparesis in a young adult - A case report and review of literature.,,2024,1.0,,,,,,,,,,Case report,manual_verified
+39668919,Is Completeness and Timeliness of Public Health Action (PHA) a Robust Tool to Improve the TB Treatment Outcome in the Private Sector?,Gujarat,2024,,,,,,,,,,,,
+39700158,"Navigating Extrapulmonary Tuberculosis: A Case Series from a Tertiary Care Facility Highlighting Rare Presentations, Diagnostic Challenges, Drug Resistance, and Therapeutic Complexities.",Uttar Pradesh,2024,,6.0,,,,,,,,"Case series; diagnostic challenges leading to therapeutic delay; no specific days.",tool_extracted
+39722901,Sociodemographic factors affecting knowledge levels of tuberculosis patients in New Delhi.,Delhi,2024,,,,,,,,,,,,
+39775521,Factors associated with the delay in diagnosis of extrapulmonary tuberculosis at the patient and health system level: A study from a rural setting in India.,Madhya Pradesh,2025,rural,249.0,14.0,,,21.0,,,21.0,,"Medians; patient delay 14 days (IQR 7-30), health system delay 21 days (IQR 8-48). Data collected 2018-2020.",tool_extracted
+39890369,Coverage and utilization of Nikshay Poshan Yojana among patients with tuberculosis: Exploring patterns and influencing factors.,Haryana,2025,,,,,,,,,,,,
+39910497,The impact of delay in HIV diagnosis on patient survival: analysis of HIV infection trends from 2007 to 2023.,,2025,,,,,,,,,,,,
+39926823,Histopathological Insights into Granulomatous Lesions: A Comprehensive Study.,Uttar Pradesh,2024,,,,,,,,,,,,
+39957395,Population pharmacokinetics and dosing of dispersible moxifloxacin formulation in children with rifampicin-resistant tuberculosis.,,2025,,,,,,,,,,,,
+39957925,Computed Tomography Guided Biopsy and Gene X-pert MTB/Rif Ultra can be Deceptive in Spondylodiscitis - A Rare Case Report of Hodgkin's Lymphoma Mimicking Spondylodiscitis.,,2025,1.0,,,,,,,,,,Case report,manual_verified
+40023533,Tuberculosis and stigma: Break the silence….,Uttar Pradesh,2025,,,,,,,,,,,,
+40023534,Spatial patterns and multilevel analysis of factors associated with paediatric tuberculosis in India.,Uttar Pradesh,2025,,,,,,,,,,,,
+40023536,Assessment of utilization of nutritional support scheme vis a vis nutritional status of tuberculosis patients on nutritional support scheme.,Delhi,2025,,,,,,,,,,,,
+40023548,Diagnostic evaluation and management of abdominal tuberculosis.,Uttar Pradesh,2025,,,,,,,,,,,,
+40025616,Tuberculosis of the elbow joint: the complexity of diagnosis and treatment-A case report and review of literature.,,2025,1.0,,,,,,,,,,Case report,manual_verified
+40047235,Tuberculosis of the central nervous system: current concepts in diagnosis and treatment.,,2025,,,,,,,,,,,,
+40066405,Insights into Retropharyngeal Space Lesions: Our Clinical Experience.,Uttar Pradesh,2025,,,,,,,,,,,,
+40089429,Musculoskeletal manifestations in Tuberculosis.,,2025,,,,,,,,,,,,
+40098402,The interplay of tuberculosis and COVID-19: Insights into global health challenges.,Uttar Pradesh,2025,,,,,,,,,,,,
+40102870,"""I consulted so many doctors"": the journey of tuberculosis patients in Bengaluru, India, from first symptoms to diagnosis.",Uttar Pradesh,2025,,,,,,,,,,,,
+40120593,"A roadmap for integrating nutritional assessment, counselling, and support into the care of people with tuberculosis.",Uttar Pradesh,2025,,,,,,,,,,,,
+40154850,Recent advances in inhibitor development and metabolic targeting in tuberculosis therapy.,,2025,,,,,,,,,,,,
+40167132,Tuberculous endobronchial stenosis in an adolescent: a rare case report.,Uttar Pradesh,2025,1.0,,,,,,,,,,Case report,manual_verified
+40200612,Role of Sequential Approach to Sample Collection in Microbiological Diagnosis of Smear Negative Pulmonary Tuberculosis.,Uttar Pradesh,2025,,,,,,,,,,,,
+40256136,"Comprehensive Assessment of Genital Infections and Reproductive Health in Women Visiting a Fertility Clinic in Warangal, India-A Case-Control Study.",Uttar Pradesh,2025,,,,,,,,,,,,
+40262464,Customized MHC Class I & II restricted peptides from clinical isolates of Mycobacterium tuberculosis tweak strong cellular immune response in Healthy individuals and Pulmonary Tuberculosis patients: A potential candidate in vaccine design.,Uttar Pradesh,2025,,,,,,,,,,,,
+40322625,Double Trouble in the Pericardium: A Rare Co-Infection of Tuberculosis and Tularemia Leading to Cardiac Tamponade.,Uttar Pradesh,2025,1.0,,,,,,,,,,Case report,manual_verified
+40327607,Miliary Patterns on Computerized Tomography Imaging of Chest in Immunocompromised Patient: Unveiling Disseminated Histoplasmosis.,,2025,,,,,,,,,,,,
+40352342,Establishment and evaluation of a naked-eye diagnostic assay for tuberculosis utilizing reverse isothermal amplification-assisted CRISPR-Cas in resource-limited settings.,Madhya Pradesh,2025,,,,,,,,,,,,
+40392137,18F-FDG PET/CT in a Giant Cell Tumor of Bone Masquerading as a Retroperitoneal Soft Tissue Sarcoma.,,2025,,,,,,,,,,,,
+40400720,Tuberculous compound palmar ganglion: unravelling a rare diagnosis.,,2025,1.0,,,,,,,,,,Case report,manual_verified
+40406648,Tuberculosis Trends in the Post-COVID-19 Era: Is It Going to be a Global Concern?,Uttar Pradesh,2025,,,,,,,,,,,,
+40424989,"Correct Knowledge about Tuberculosis and Determinants among People Living with HIV Attending a District Antiretroviral Treatment Center in the State of Karnataka, India.",Karnataka,2025,,,,,,,,,,,,
+40441696,Population pharmacokinetics and dosing of dispersible moxifloxacin formulation in children with rifampicin-resistant tuberculosis.,,2025,,,,,,,,,,,,
+40448889,"Diagnostic yield of Xpert MTB/RIF, Xpert MTB/RIF Ultra, and Truenat MTB assays on non-pulmonary samples from suspected cases of extra-pulmonary tuberculosis (EPTB).",Uttar Pradesh,2025,,,,,,,,,,,,
+40485475,Pulmonary histoplasmosis with histoplasmosis tracheitis in a patient with systemic sclerosis: A case report and review of literature.,,2025,1.0,,,,,,,,,,Case report,manual_verified
+40491731,Understanding antituberculosis drug-induced hepatotoxicity: Risk factors and effective management strategies in the pediatric population.,Uttar Pradesh,2025,,,,,,,,,,,,
+40493553,Impact of multiple consultations and switching in treatment-seeking in tuberculosis: Mathematical modelling and optimal control.,Uttar Pradesh,2025,,,,,,,,,,,,
+40528876,Outcomes of children with juvenile idiopathic arthritis receiving biological disease-modifying anti-rheumatic drugs: a retrospective single-centre experience from India.,Uttar Pradesh,2025,,44.0,,,,,,,,,,
+40540665,Nonfunctioning Kidney Due to Renal Tuberculosis: A Diagnostic Challenge.,,2025,1.0,,,,,,,,,,Case report,manual_verified
+40546357,Whether reactivation of granuloma inguinale can be a possibility in a person living with HIV?,,2025,,,,,,,,,,,,
+40553530,Melioidosis: An Indian Perspective.,,2025,,,,,,,,,,,,
+40569404,"Bridging the gap: Early detection of pulmonary tuberculosis among PLHIV in Western Rajasthan, India.",Rajasthan,2025,,100.0,,,,,,,,,,
+40595921,Development and optimization of an injectable in-situ gel system for sustained release of anti-tuberculosis drugs.,Uttar Pradesh,2025,,,,,,,,,,,,
+40619035,Advancements in tuberculosis diagnostics: An update.,Uttar Pradesh,2025,,,,,,,,,,,,
+40622143,"Evaluating the expression level of serum Interleukin-2, lipoarabinomannan and circulating MicroRNA-29a as diagnostic biomarkers for pulmonary and extra-pulmonary tuberculosis: a pilot study.",Uttar Pradesh,2025,,,,,,,,,,,,
+40628559,Imaging in Pott's spine: A review of typical and atypical imaging features and diagnostic challenges.,,2025,,,,,,,,,,,,
+40635968,Tubercular Palmar Ganglion Presenting as a Severe Carpal Tunnel Syndrome - A Case Report.,,2025,1.0,,,,,,,,,,Case report,manual_verified
+40645675,MDDB: A public databank of host microRNAs in Tuberculosis diagnosis.,Uttar Pradesh,2025,,,,,,,,,,,,
+40672039,Prognostic Value of Time-to-Positivity and Cycle Threshold (CT) Values in Predicting Tuberculosis Outcomes and Multidrug Resistance in Northern India: A Study Using Liquid Culture and Molecular Diagnostics.,Uttar Pradesh,2025,,,,,,,,,,,,
+40682729,Economic burden borne by patients due to diagnostic delays in inflammatory bowel disease: Insights from a survey of newly diagnosed patients.,Uttar Pradesh,2025,,,,,,,,,,,,
+40707086,Sensitivity and specificity of Xpert MTB/RIF for extrapulmonary non-spinal osteoarticular tuberculosis.,,2025,,,,,,,,,,,,
+40740031,Geriatric Tuberculosis in India: Emerging challenges and practical perspectives.,,2025,,,,,,,,,,,,
+40741006,"A scoping review about smoking, smoking cessation and their effects on anti-tuberculosis agents: insights into drug metabolisms, safety, and effectiveness.",Uttar Pradesh,2025,,,,,,,,,,,,
+40760794,Improving Treatment Adherence in Youths With Multidrug-Resistant Tuberculosis With Psychosocial Intervention.,Uttar Pradesh,2025,,41.0,,,,,,,,,,
+40786776,Isolated Scapular Spine Involvement: A Rare Presentation of Osteoarticular Tuberculosis.,,2025,1.0,,,,,,,,,,Case report,manual_verified
+40814469,Rare cause of extrapulmonary tuberculosis in an immunocompetent elderly patient.,,2025,1.0,,,,,,,,,,Case report,manual_verified
+40864109,Evaluating the Gaps in the Diagnosis and Treatment in Extra-Pulmonary Tuberculosis Patients Under National Tuberculosis Elimination Programme (NTEP) Guidelines: A Multicentric Cohort Study.,Uttar Pradesh,2025,,,,,,,,,,,,
+40959808,Diagnostic Utility of Fine Needle Aspiration Cytology in a Case of Pulmonary Hydatid Cyst Masquerading as Tuberculosis.,,2025,1.0,,,,,,,,,,Case report,manual_verified
+40975574,"Knowledge, attitude and practice regarding tuberculosis among nursing students in a coastal district of Karnataka.",Karnataka,2025,,,,,,,,,,,,
+40975575,Delay in TB preventive treatment (TPT) initiation among household contacts of pulmonary TB patients: Does it affect the TPT outcome?,West Bengal,2025,,,"",23.0,,,,"Median delay to TPT initiation: 23 days; associated with unsuccessful TPT outcome (aRR 2.03 for 8-30 days, 2.90 for >30 days). Data 2022.",tool_extracted
+40975583,"Diagnostic delay, expenditure pattern and treatment outcome of extra-pulmonary TB patients of Bangalore Urban District - A mixed method study.",Karnataka,2025,,174.0,,,,,,,,"44.2% had diagnostic delay >1 month; average expenditure ₹56,681.",tool_extracted
+40978883,"Clinical Presentation, Diagnosis, and Management of Abdominal Tuberculosis in Pediatric Population: A Prospective Descriptive Study From a Tertiary Care Centre in North India.",Uttar Pradesh,2025,,,,,,,,,,,,
+40983468,Effect of BCG Danish and oral polio vaccine on neonatal mortality in newborn babies weighing less than 2000 g in India: multicentre open label randomised controlled trial (BLOW2).,Uttar Pradesh,2025,,,,,,,,,,,,
+40997860,Label-free electrochemical-based biosensor for gene-phosphatidylinositol mannosides detection in urine for the determination of multidrug-resistant tuberculosis.,Uttar Pradesh,2025,,,,,,,,,,,,
+41041201,Kikuchi-Fujimoto disease misdiagnosed as tubercular lymphadenitis: A puzzle in cervical lymph nodes.,,2025,1.0,,,,,,,,,,Case report,manual_verified
+41041286,Identification of potential inhibitors of dihydrofolate reductase (DHFR) through blocking the folate biosynthetic pathway of <i>Mycobacterium tuberculosis</i> utilizing structure-based virtual screening.,,2025,,,,,,,,,,,,
+41042600,"High burden of severe and very severe undernutrition among adults with tuberculosis: findings from a state wide operational research in Chhattisgarh, India.",Chhattisgarh,2025,,,,,,,,,,,,
+41045529,"Delay in the Diagnosis and Treatment of Tuberculosis among Tuberculosis Patients in South-East Delhi, India.",Delhi,2025,,416.0,25.27,8.21,24.2,3.85,,,,"Patient delay median 29 days, health system median 19 days. Study 2019-2020.",tool_extracted
+41081401,Evaluation of Fluorescein Diacetate Viability Staining during Treatment Follow-up Examinations of Smear Positive Pulmonary Tuberculosis Patients.,Uttar Pradesh,2025,,,,,,,,,,,,
+41084573,Bronchus-Associated Lymphoid Tissue Lymphoma (BALToma) Treated as Pulmonary Tuberculosis Presenting with Stridor.,,2025,1.0,,,,,,,,,,Case report,manual_verified
+41100650,From diagnosis to treatment: Streamlining TB care pathways in the hilly terrains of Shimla district.,Goa,2025,,,,,,,,,,,,
+41123477,Updates in the clinical management of tuberculous meningitis.,Uttar Pradesh,2025,,,,,,,,,,,,
+41126216,"""Differentiated care is not a matter of feasibility but a necessity""- service providers' perception on initiating a comprehensive tuberculosis care package (CCp-K) to reduce deaths in Kerala, India.",Kerala,2025,,,,,,,,,,,,
+41143359,Global Burden of Delayed Care in Pulmonary Tuberculosis Cases: A Meta-analysis of Observational Studies from High Tuberculosis-burden Countries.,Uttar Pradesh,2025,,184242.0,,,,,,,,"Pooled proportion delayed 48% (India 50%); 32 studies; no mean days reported.",tool_extracted
+41186119,Spectrum of Cytological Findings in Idiopathic Granulomatous Mastitis With Clinical and Radiological Correlation: A Case Series From a North Indian Tertiary Center.,Madhya Pradesh,2025,,,,,,,,,,,,
+41186778,Surface plasmon resonance-based biosensor for accurate and rapid detection of Mycobacterium tuberculosis.,Uttar Pradesh,2025,,,,,,,,,,,,
+41204077,Histoplasmosis in India: clinical insights from a tertiary care hospital.,Delhi,2025,,,,,,,,,,,,
+41209996,Strategic Leverage Points in Implementing India's Nikshay Poshan Yojana for Tuberculosis Patients: A Scoping Review.,Uttar Pradesh,2025,,,,,,,,,,,,
+41248341,"Implementing timeliness metrics for household contact tracing and TB preventive treatment through TB champions in the public sector, India: an explanatory mixed-methods study.",Uttar Pradesh,2025,,,,,,,,,,,,
+pmid,title,state,study_year,setting_public_private,sample_size,patient_delay_days,patient_delay_se,diagnostic_delay_days,diagnostic_delay_se,treatment_delay_days,treatment_delay_se,total_delay_days,total_delay_se,notes,extraction_status
+36852792,Isoniazid Loaded PCL-PEG Copolymer Nanoparticles for Sustained Release Application.,Uttar Pradesh,2023,,,,,,,,,,,no delay data,tool_extracted
+36874895,Knee Tuberculosis Presenting As Pigmented villonodular Synovitis.,,2022,1.0,,,,,,,,,,Case report,manual_verified
+36960663,Primary Hemophagocytic Lymphohistiocytosis With Prolonged Primary Neurologic Presentation.,,2023,1.0,,,,,,,,,,Case report,manual_verified
+36982586,Safety and Immunogenicity of Recombinant <i>Bacille Calmette-Guérin</i> Strain VPM1002 and Its Derivatives in a Goat Model.,Goa,2023,,,,,,,,,,,no delay data,tool_extracted
+37065338,Report of a Rare Case of Pubic Symphysis Tuberculosis in an Eight-Year-Old Child: An Unusual Presentation of the Disease.,Uttar Pradesh,2023,1.0,,,,,,,,,,Case report,manual_verified
+37077081,A rare case of smear positive tuberculous arthritis.,,2023,1.0,,,,,,,,,,Case report,manual_verified
+37100573,"TB related stigma and gender disparity among unaffected population in central Kerala, a survey.",Kerala,2023,,,,,,,,,,,no delay data,tool_extracted
+37100576,"Effect of time, temperature and pH on Mycobacterium tuberculosis culture positivity of gastric aspirate: An experimental study.",Dadra & Nagar Haveli And Daman & Diu,2023,865.0,,,,,,,,,qualitative mention of processing delay, but no quantitative data,tool_extracted
+37100583,Acral involvement in lichen scrofulosorum: A diagnostic oddity with distinctive
+pmid,title,state,study_year,setting_public_private,sample_size,patient_delay_days,patient_delay_se,diagnostic_delay_days,diagnostic_delay_se,treatment_delay_days,treatment_delay_se,total_delay_days,total_delay_se,notes,extraction_status
+37202936,Heteroresistance to rifampicin & isoniazid in clinical samples of patients with presumptive drug-resistant tuberculosis in Central India.,Central India,2023,,,,,,,,,,,no delay data,tool_extracted
+37234337,Jaw actinomycosis-An opportunistic infection: Case series.,Uttar Pradesh,2023,,3.0,,,,,,,,,,Case series on actinomycosis mimicking TB, no quantitative delays,tool_extracted
+37236420,The immune response in tubercular uveitis and its implications for treatment: From anti-tubercular treatment to host-directed therapies.,,2023,,,,,,,,,,,review, no sample or delays,tool_extracted
+37304408,Efficacy of LAMP assay for Mycobacterial spp. detection to prevent treatment delays and onset of drug resistance: a systematic review and meta-analysis.,Madhya Pradesh,2023,,30.0,,,,,,,,,,meta-analysis of 30 studies, no quantitative delays,tool_extracted
+37335340,Clinicopathologic characteristics and outcomes of late onset lupus nephritis: a single centre experience.,Uttar Pradesh,2023,,53.0,,,,,,,,,,"Renal presentation delayed median 10 months (IQR 3-48) after SLE diagnosis; TB as complication in 13.2%, no TB delays.",tool_extracted
+37338470,Impact of anemia on sputum smear conversion and treatment outcomes among newly diagnosed tuberculosis patients in Southern India.,Southern India,2023,public,661.0,,,,,,,,,,,no delay data,tool_extracted
+37354752,Effect of prediabetes on tuberculosis treatment outcomes: A study from South India.,South India,2023,,187.0,,,,,,,,,,"Qualitative mention of delay in sputum conversion, no quantitative days.",tool_extracted
+37388508,First case of primary appendiceal tuberculosis presented as stump appendicitis.,Kerala,2023,1.0,,,,,,,,,,Case report,manual_verified
+37402589,Successful management of delayed postoperative lung collapse secondary to spillage of aspergilloma.,,2023,1.0,,,,,,,,,,Case report,tool_extracted
+37409311,Superior Mesenteric Artery Syndrome as a Rare Cause of Postoperative Intractable Vomiting: A Case Report.,Uttar Pradesh,2023,1.0,,,,,,,,,,Case report,tool_extracted
+pmid,title,state,study_year,setting_public_private,sample_size,patient_delay_days,patient_delay_se,diagnostic_delay_days,diagnostic_delay_se,treatment_delay_days,treatment_delay_se,total_delay_days,total_delay_se,notes,extraction_status
+37429151,Limited sampling strategies for therapeutic drug monitoring of anti-tuberculosis medications: A systematic review of their feasibility and clinical utility.,,2023,,,,,,,,,,,no delay data,tool_extracted
+37433855,ResR/McdR-regulated protein translation machinery contributes to drug resilience in Mycobacterium tuberculosis.,Uttar Pradesh,2023,,,,,,,,,,,no delay data,tool_extracted
+37468869,Differentiating gastrointestinal tuberculosis and Crohn's disease- a comprehensive review.,Uttar Pradesh,2023,,,,,,,,,,,no delay data,tool_extracted
+37498858,"Intersections of informal work status, gender and tuberculosis diagnosis: Insights from a qualitative study from an Indian setting.",Uttar Pradesh,2023,,,,,,,,,,,qualitative study, no quantitative delays,tool_extracted
+37635510,Diffusion Restriction in Bilateral Thalami: Beyond Artery of Percheron Infarct.,,2023,,,,,,,,,,,potential for unnecessary delays mentioned, no quantitative data; case series, tertiary care center in tropical India, 2023,tool_extracted
+37658369,Factors affecting ability of TB patients to follow treatment guidelines - applying a capability approach.,Kerala,2023,,,,,,,,,,,"no perceived delay in seeking initial care" associated with adherence (AOR 3.2, 95% CI 1.2-8.7); cross-sectional with mixed methods, Thiruvananthapuram district, Kerala, India, 2023,tool_extracted
+37667730,"Knowledge Among Junior Doctors About the Collection and Transport of Samples for Tuberculosis Diagnosis in a Medical College Hospital in Coastal Karnataka, India.",Karnataka,2023,,,,,,,,,,,no delay data,tool_extracted
+37711937,Melioidosis as a Mystique Infection: A Study From Central India.,,2023,,,,,,,,,,,no delay data (focus on melioidosis),tool_extracted
+37732197,A Nanopore sequencing-based pharmacogenomic panel to personalize tuberculosis drug dosing.,,2023,,48.0,,,,,,,,,no delay data,tool_extracted
+37789748,"Paradoxical reaction in peripheral lymph node tuberculosis: a review of its prevalence, clinical characteristics, and possible treatment.",Uttar Pradesh,2025,,,,,,,,,,,no delay data,tool_extracted
+37873771,"Can Hydrogen Water Enhance Oxygen Saturation in Patients with Chronic Lung Disease? A Non-Randomized, Observational Pilot Study.",,2023,,,,,,,,,,,no delay data,tool_extracted
+37886056,Comprehensive assessment of invalid and indeterminate results in Truenat MTB-RIF testing across sites under the national TB elimination program of India.,Uttar Pradesh,2023,,,,,,,,,,,no delay data,tool_extracted
+38047053,"Delays in Lung Cancer Diagnosis: Observations from a Tertiary Care Centre in Kerala, India.",Kerala,2023,,,,,,,,,,,no delay data (focus on lung cancer),tool_extracted
+38079438,"Feasibility, enablers and challenges of using timeliness metrics for household contact tracing and TB preventive therapy in Pakistan.",Uttar Pradesh,2023,,public,450.0,,,,,,,,"Timeliness metrics (7-1-7): First 7 (line-listing): 92%; Next 1 (screening outcomes): 84% of 1342 contacts; Second 7 (decision): 35% of 256 eligible. Explanatory mixed methods, Karachi, Pakistan, 2023.",tool_extracted
+pmid,title,state,study_year,setting_public_private,sample_size,patient_delay_days,patient_delay_se,diagnostic_delay_days,diagnostic_delay_se,treatment_delay_days,treatment_delay_se,total_delay_days,total_delay_se,notes,extraction_status
+38110254,"Indolent ulcer and discharging sinus on the eyelid of healthy Indian children and an adult: Orbital tuberculosis, a spot-diagnosis.",,2023,1.0,,,,,,,,,,Case report; no delay data available from abstract.,tool_extracted
+38110267,Perceptions and challenges among health care providers about HIV-TB co-infected children- A qualitative study.,Karnataka,2023,public,14.0,,,,,,,,,,"Qualitative study; mentions 'delay in receiving TB lab report' but no quantitative metrics.",tool_extracted
+38138142,Temporal Profiling of Host Proteome against Different <i>M. tuberculosis</i> Strains Reveals Delayed Epigenetic Orchestration.,,2023,,0.0,,,,,,,,,,"In vitro study; no delay data.",tool_extracted
+38149550,Tubercular osteomyelitis of calcaneum in an immunocompetent adult.,,2023,,1.0,180.0,,,,,,,,,"Case report; patient presented after 6 months (~180 days) of symptoms, indicating patient delay; no SE or other metrics.",tool_extracted
+38153918,"Addressing patients' unmet needs related to multidrug-resistant tuberculosis (MDR-TB) care: A qualitative research study from Pune city, India.",Maharashtra,2023,public_private,128.0,,,,,,,,,,"Qualitative study; mentions delays in diagnosis and late referral to NTEP, but no quantitative days.",tool_extracted
+38161267,Effect of Bedaquiline and Delamanid Pharmacokinetics on Sputum Culture Conversion and Adverse Events in Drug-Resistant Tuberculosis.,,2024,,165.0,,,,,,,,,,"Prospective cohort; mentions delay in sputum conversion linked to low drug levels, but no quantitative delay metrics.",tool_extracted
+38166734,Exploring private sector perspectives on barriers and facilitators in availing tuberculosis care cascade services: a qualitative study from the Indian state.,Jharkhand,2024,private,17.0,,,,,,,,,,"Qualitative study; mentions delays in diagnosis, treatment provision, and adherence, but no quantitative metrics.",tool_extracted
+38251204,"Test and Treat Model for Tuberculosis Preventive Treatment among Household Contacts of Pulmonary Tuberculosis Patients in Selected Districts of Maharashtra: A Mixed-Methods Study on Care Cascade, Timeliness, and Early Implementation Challenges.",Maharashtra,2023,public,14172.0,,,,,,,,,64.0,,"Mixed-methods; median time to TPT initiation: 64 days; median to screening: 31 days.",tool_extracted
+pmid,title,state,study_year,setting_public_private,sample_size,patient_delay_days,patient_delay_se,diagnostic_delay_days,diagnostic_delay_se,treatment_delay_days,treatment_delay_se,total_delay_days,total_delay_se,notes,extraction_status
+38269612,Kidney transplantation in patients on anti-tubercular therapy: A single centre observational study.,Uttar Pradesh,2024,,,,,,,,,,,no delay data from full text,full_text_extracted
+38273246,"Direct benefit transfer for nutritional support of patients with TB in India-analysis of national TB program data of 3.7 million patients, 2018-2022.",Uttar Pradesh,2024,public_private,3712551.0,,,,,,,,,,"Delays in nutritional support (not clinical TB delays): median first instalment 91-200 days; private sector 106.9 days.",full_text_extracted
+38291648,Uncovering the Unknown: Granulomatous Peritonitis After Right Ovarian Cystectomy at a Tertiary Care Center in South India-A Case Report.,South India,2024,tertiary,1.0,,,,,,,,,,Case report; no delay data,full_text_extracted
+38312835,The uncharted territory of host-pathogen interaction in tuberculosis.,Uttar Pradesh,2024,,,,,,,,,,,no delay data (review),full_text_extracted
+38327565,Immune-endocrine network in diabetes-tuberculosis nexus: does latent tuberculosis infection confer protection against meta-inflammation and insulin resistance?,,2024,,,,,,,,,,,,"Qualitative mention of delayed sputum conversion in TB+DM, no quantitative days.",full_text_extracted
+38358181,"Etiopathogenesis, diagnostic evaluation, and management of ovarian tuberculosis: A systematic review.",Uttar Pradesh,2024,,,,,,,,,,,no delay data (systematic review),full_text_extracted
+38358903,Discovery of Species-Specific Proteotypic Peptides To Establish a Spectral Library Platform for Identification of Nontuberculosis Mycobacteria from Mass Spectrometry-Based Proteomics.,,2024,,,,,,,,,,,no delay data,full_text_extracted
+38420252,Multilevel Pre-extensively Drug-resistant Tubercular Spondylodiscitis: Underdiagnosed or Overlooked? A Case Report.,,2024,1.0,,,,,,,,,,,"Case report; diagnostic delays noted (6 months empiric therapy, relapse after 8 years); general lag 6-24 months from lit.",full_text_extracted
