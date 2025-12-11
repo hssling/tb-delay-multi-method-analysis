@@ -11,6 +11,7 @@ This repository hosts the IJMR submission package for the India TB detection del
 - `environment.yml`, `requirements.txt`: dependencies for reproducing analyses and document builds.
 - `LIVING_REVIEW.md`: guide for quarterly reruns and (optional) automation setup.
 - `LICENSE`: license for this repository.
+- `data/` (not tracked): see `data/README.md` for required local inputs; raw/intermediate data are intentionally excluded from version control.
 
 ## Usage
 - Cite this repo link in the manuscript for access to figures and submission artefacts.
@@ -18,6 +19,7 @@ This repository hosts the IJMR submission package for the India TB detection del
 - The manifest (`submission/ijmr_submission_manifest_v4.json`) lists the submission files and formats.
 - Run `scripts/run_all.py` (or `scripts/run_all_v2.py`) to execute the end-to-end pipeline; individual numbered scripts in `scripts/` correspond to specific stages (ingest, clean, meta-analysis, PCA, DAG, figures, manuscript assembly).
 - For scheduled or repeat refreshes, see `LIVING_REVIEW.md` (living-review workflow and automation starter).
+- Place required source data locally under `data/` (see `data/README.md`); do not commit raw data or intermediate artifacts.
 
 ## Authors
 - H S Siddalingaiah (hssling@yahoo.com)

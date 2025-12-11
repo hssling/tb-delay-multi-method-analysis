@@ -15,3 +15,7 @@ __pycache__/
 
 # Derived
 *.log
+
+# Data (keep sources local; only placeholder tracked)
+data/
+!data/README.md
